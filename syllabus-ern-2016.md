@@ -1,5 +1,5 @@
 #Curriculum and Rubrics of Study for DLF ERN 2016
-**[https://www.diglib.org/groups/e-research-network/](https://www.diglib.org/groups/e-research-network/)**
+[https://www.diglib.org/groups/e-research-network/](https://www.diglib.org/groups/e-research-network/)
 
 ##Data Advocacy (building advocates, partnerships internal/external, and promoting data literacy)
 
@@ -10,59 +10,58 @@
   * Roadshow(slideshow) for promoting Data Services OR Lesson Plan for Data Management Curriculum 
 
 3. Documents:
-  * Frameworks for a Data Management Curriculum (
-  * [http://library.umassmed.edu/data_management_frameworks.pdf](http://library.umassmed.edu/data_management_frameworks.pdf) 
+  * Frameworks for a Data Management Curriculum ([http://library.umassmed.edu/data_management_frameworks.pdf](http://library.umassmed.edu/data_management_frameworks.pdf) 
 
 4. Speaker(s): 
   * Stephanie Wright (Mozilla)
 
 ##Data Management Planning and Funder Requirements
 
-###Readings:
+1. Readings:
 
-###Exercise: Data Management Planning Exercise
+2. Exercise: Data Management Planning Exercise
 
-###Documents: 
+3. Documents: 
 
-###Speaker(s): NSF and NIH representatives
+4. Speaker(s): NSF and NIH representatives
 
 ##Digital Scholarship, Digital Humanities, Data Visualization
 
-###Readings:
+1. Readings:
 
-###Exercise:
+2. Exercise:
 
-###Documents: 
+3. Documents: 
 
-###Speaker(s): TBD
+4. Speaker(s): TBD
 
 ##Data Discovery/Metadata and Curation (reusability? preservation?)
 
-###Readings:
+1. Readings:
 
-###Exercise: Data Dictionary or Markup exercise
+2. Exercise: Data Dictionary or Markup exercise
 
-###Documents: 
+3. Documents: 
 
-###Speaker(s): TBD
+4. Speaker(s): TBD
 
 ##Data Privacy and Data Ethics
 
-###Readings:   
+1. Readings:   
 
-###Exercise: Negotiating a license for data submission and communicating copyrights
+2. Exercise: Negotiating a license for data submission and communicating copyrights
 
-###Documents: 
+3. Documents: 
 
-###Speaker(s): TBD
+4. Speaker(s): TBD
 
 ##Assessment (Metrics for success with Data Services)
 
-###Readings:
+1. Readings:
 
-###Exercise: Analyzing user behavior and web analytics from examples of raw statistics in a data repository
+2. Exercise: Analyzing user behavior and web analytics from examples of raw statistics in a data repository
 
-###Documents: 
+3. Documents: 
 
-###Speaker(s): TBD
+4. Speaker(s): TBD
 
