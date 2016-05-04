@@ -18,6 +18,7 @@
 ##Data Management Planning and Funder Requirements
 
 1. Readings:
+  * Michener, W. K. (2015). Ten Simple Rules for Creating a Good Data Management Plan. PLoS Comput Biol , 11(10). presented at the 10/2015. http://dx.doi.org/10.7191/jeslib.2015.1085
 
 2. Exercise: Data Management Planning Exercise
 
