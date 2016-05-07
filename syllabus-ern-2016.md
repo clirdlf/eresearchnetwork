@@ -49,7 +49,7 @@
 
 ##Data Privacy and Data Ethics
 
-1. Readings:   
+1. Readings: m, D. S., & Noh, Y. (2014). A Study of Public Library Patrons’ Understanding of Library Records and Data Privacy. International Journal of Knowledge Content Development & Technology, 4(1), 53-78. http://central.oak.go.kr/repository/journal/14718/JSKTBN_2014_v4n1_53.pdf  
 
 2. Exercise: Negotiating a license for data submission and communicating copyrights
 
