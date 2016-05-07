@@ -59,7 +59,8 @@
 
 ##Assessment (Metrics for success with Data Services)
 
-1. Readings:
+1. Readings: 
+  * How to Track the Impact of Research Data with Metrics - See more at: http://www.dcc.ac.uk/resources/how-guides/track-data-impact-metrics
 
 2. Exercise: Analyzing user behavior and web analytics from examples of raw statistics in a data repository
 
