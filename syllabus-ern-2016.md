@@ -39,6 +39,7 @@
 ##Data Discovery/Metadata and Curation (reusability? preservation?)
 
 1. Readings:
+  * Tuarob, S., Pouchard, L. C., & C. Giles, L.. (2013). Automatic Tag Recommendation for Metadata Annotation Using Probabilistic Topic Modeling. In Proceedings of the 13th ACM/IEEE-CS Joint Conference on Digital Libraries. New York, NY, USA: ACM. doi: http://dx.doi.org/10.1145/2467696.2467706
 
 2. Exercise: Data Dictionary or Markup exercise
 
