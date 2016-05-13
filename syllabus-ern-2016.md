@@ -4,7 +4,7 @@
 ##Data Advocacy (building advocates, partnerships internal/external, and promoting data literacy)
 
 1. Readings: 
-  * Piorun, Mary E., Donna Kafel, Tracey Leger-Hornby, Siamak Najafi, Elaine R. Martin, Paul Colombo, and Nancy R. LaPelle. "Teaching research data management: An undergraduate/graduate curriculum." *Journal of eScience Librarianship* 1, no. 1 (2012): 8.
+  * Piorun, Mary E., Donna Kafel, Tracey Leger-Hornby, Siamak Najafi, Elaine R. Martin, Paul Colombo, and Nancy R. LaPelle. 2012. "Teaching Research Data Management: An Undergraduate/Graduate Curriculum." Journal of eScience Librarianship 1(1): e1003. http://dx.doi.org/10.7191/jeslib.2012.1003
 
 2. Exercise:
   * Roadshow(slideshow) for promoting Data Services OR Lesson Plan for Data Management Curriculum 
