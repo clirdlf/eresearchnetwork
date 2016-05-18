@@ -28,15 +28,16 @@
 
 2. Exercise: Data Management Planning Exercise
   * Materials from Jenny Mullenberg and Mariah Lebow’s session at Science Bootcamp West:
-    * Simplified data management plan - 
-    * 
-    * 
+    * Simplified data management plan 
+    * Case Study: Vitamin D Bipolar 
+    * Case Study: Highland Birds
+    * Case Study: Engineering
 
 3. Documents:
   * DMPTool - https://dmptool.org/
 
 4. Speaker(s):
-  * NSF and NIH representatives
+  * Jeff de La Beaujardiere - NOAA, Anne Maglia - NSF, JP Kim and Dina Paltoo - NIH 
 
 ##Digital Scholarship, Digital Humanities, Data Visualization
 
