@@ -1,9 +1,17 @@
 #Curriculum and Rubrics of Study for DLF ERN 2016
+
+Wiki:
+[https://wiki.diglib.org/EResearch_Network](https://wiki.diglib.org/EResearch_Network)
+
+2016 ERN Roster
+[https://docs.google.com/spreadsheets/d/145hQ3OWdtj1y4Qw0HLfvi4x54Yy-c_a2JDfwyB4vmuY/edit?usp=sharing](https://docs.google.com/spreadsheets/d/145hQ3OWdtj1y4Qw0HLfvi4x54Yy-c_a2JDfwyB4vmuY/edit?usp=sharing)
+
+Website:
 [https://www.diglib.org/groups/e-research-network/](https://www.diglib.org/groups/e-research-network/)
 
 ##Data Advocacy (building advocates, partnerships internal/external, and promoting data literacy)
 
-1. Readings:
+1. Suggested Readings
   * Piorun, Mary E., Donna Kafel, Tracey Leger-Hornby, Siamak Najafi, Elaine R. Martin, Paul Colombo, and Nancy R. LaPelle. 2012. "Teaching Research Data Management: An Undergraduate/Graduate Curriculum." Journal of eScience Librarianship 1(1): e1003. http://dx.doi.org/10.7191/jeslib.2012.1003
   * Mooney, Hailey, and Breezy Silver. "Spread the news Promoting data services." College & Research Libraries News 71, no. 9 (2010): 480-483. http://crln.acrl.org/content/71/9/480.short
   * Johnston, Lisa, and Jon Jeffryes. "Steal this idea: A library instructors’ guide to educating students in data management skills." College & Research Libraries News 75, no. 8 (2014): 431-434. http://crln.acrl.org/content/75/8/431.full
@@ -24,7 +32,7 @@
 
 ##Data Management Planning and Funder Requirements
 
-1. Readings:
+1. Suggested Readings:
   * Dietrich, Dianne, Trisha Adamus, Alison Miner, and Gail Steinhart. "De-mystifying the data management requirements of research funders." Issues in Science and Technology Librarianship 70, no. 1 (2012). http://istl.org/12-summer/refereed1.html
   * Diekema, Anne R., Andrew Wesolek, and Cheryl D. Walters. "The NSF/NIH effect: Surveying the effect of data management requirements on faculty, sponsored programs, and institutional repositories." The Journal of Academic Librarianship 40, no. 3 (2014): 322-331.
   * Michener, W. K. (2015). Ten Simple Rules for Creating a Good Data Management Plan. PLoS Comput Biol , 11(10). presented at the 10/2015. http://dx.doi.org/10.1371/journal.pcbi.1004525
@@ -44,7 +52,7 @@
 
 ##Digital Scholarship, Digital Humanities, Data Visualization
 
-1. Readings:
+1. Suggested Readings:
 
 2. Exercise:
 
@@ -54,7 +62,7 @@
 
 ##Data Discovery/Metadata and Curation (reusability? preservation?)
 
-1. Readings:
+1. Suggested Readings:
   * Tuarob, S., Pouchard, L. C., & C. Giles, L.. (2013). Automatic Tag Recommendation for Metadata Annotation Using Probabilistic Topic Modeling. In Proceedings of the 13th ACM/IEEE-CS Joint Conference on Digital Libraries. New York, NY, USA: ACM. doi: http://dx.doi.org/10.1145/2467696.2467706
 
 2. Exercise: Data Dictionary or Markup exercise
@@ -65,7 +73,7 @@
 
 ##Data Privacy and Data Ethics
 
-1. Readings: 
+1. Suggested Readings: 
   * m, D. S., & Noh, Y. (2014). A Study of Public Library Patrons’ Understanding of Library Records and Data Privacy. International Journal of Knowledge Content Development & Technology, 4(1), 53-78. http://central.oak.go.kr/repository/journal/14718/JSKTBN_2014_v4n1_53.pdf  
 
 2. Exercise: Negotiating a license for data submission and communicating copyrights
@@ -76,7 +84,7 @@
 
 ##Assessment (Metrics for success with Data Services)
 
-1. Readings: 
+1. Suggested Readings: 
   * How to Track the Impact of Research Data with Metrics - See more at: http://www.dcc.ac.uk/resources/how-guides/track-data-impact-metrics
 
 2. Exercise: Analyzing user behavior and web analytics from examples of raw statistics in a data repository
