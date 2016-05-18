@@ -30,7 +30,7 @@
   * Michener, W. K. (2015). Ten Simple Rules for Creating a Good Data Management Plan. PLoS Comput Biol , 11(10). presented at the 10/2015. http://dx.doi.org/10.1371/journal.pcbi.1004525
 
 2. Exercise: Data Management Planning Exercise
-  * Materials from Jenny Mullenberg and Mariah Lebow’s session at Science Bootcamp West:
+  * Materials from Jenny Muilenburg and Mariah Lebow’s session at Science Bootcamp West:
     * Simplified data management plan 
     * Case Study: Vitamin D Bipolar 
     * Case Study: Highland Birds
