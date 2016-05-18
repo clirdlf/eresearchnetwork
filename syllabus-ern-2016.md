@@ -22,13 +22,21 @@
 ##Data Management Planning and Funder Requirements
 
 1. Readings:
+  * Dietrich, Dianne, Trisha Adamus, Alison Miner, and Gail Steinhart. "De-mystifying the data management requirements of research funders." Issues in Science and Technology Librarianship 70, no. 1 (2012). http://istl.org/12-summer/refereed1.html
+  * Diekema, Anne R., Andrew Wesolek, and Cheryl D. Walters. "The NSF/NIH effect: Surveying the effect of data management requirements on faculty, sponsored programs, and institutional repositories." The Journal of Academic Librarianship 40, no. 3 (2014): 322-331.
   * Michener, W. K. (2015). Ten Simple Rules for Creating a Good Data Management Plan. PLoS Comput Biol , 11(10). presented at the 10/2015. http://dx.doi.org/10.1371/journal.pcbi.1004525
 
 2. Exercise: Data Management Planning Exercise
+  * Materials from Jenny Mullenberg and Mariah Lebow’s session at Science Bootcamp West:
+    * Simplified data management plan - 
+    * 
+    * 
 
-3. Documents: 
+3. Documents:
+  * DMPTool - https://dmptool.org/
 
-4. Speaker(s): NSF and NIH representatives
+4. Speaker(s):
+  * NSF and NIH representatives
 
 ##Digital Scholarship, Digital Humanities, Data Visualization
 
