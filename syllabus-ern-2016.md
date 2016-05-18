@@ -15,6 +15,9 @@
 
 3. Documents:
   * New England Collaborative Data Management Curriculum (NECDMC) - [http://library.umassmed.edu/necdmc/index](http://library.umassmed.edu/necdmc/index) 
+  * DataOne Education Modules - https://www.dataone.org/education-modules
+  * RDM Rose - http://rdmrose.group.shef.ac.uk/
+  * MANTRA - http://datalib.edina.ac.uk/mantra/
 
 4. Speaker(s): 
   * Stephanie Wright (Mozilla)
