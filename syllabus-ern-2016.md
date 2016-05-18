@@ -5,12 +5,16 @@
 
 1. Readings: 
   * Piorun, Mary E., Donna Kafel, Tracey Leger-Hornby, Siamak Najafi, Elaine R. Martin, Paul Colombo, and Nancy R. LaPelle. 2012. "Teaching Research Data Management: An Undergraduate/Graduate Curriculum." Journal of eScience Librarianship 1(1): e1003. http://dx.doi.org/10.7191/jeslib.2012.1003
+  * Mooney, Hailey, and Breezy Silver. "Spread the news Promoting data services." College & Research Libraries News 71, no. 9 (2010): 480-483. http://crln.acrl.org/content/71/9/480.short
+  * Johnston, Lisa, and Jon Jeffryes. "Steal this idea: A library instructors’ guide to educating students in data management skills." College & Research Libraries News 75, no. 8 (2014): 431-434. http://crln.acrl.org/content/75/8/431.full
 
 2. Exercise:
-  * Roadshow(slideshow) for promoting Data Services OR Lesson Plan for Data Management Curriculum 
+  * Roadshow(slideshow) for promoting Data Services OR Lesson Plan for Data Management Curriculum
+    ** Example Roadshow - https://docs.google.com/presentation/d/14Qa8l5BONFtmXaTic88uvffnG-PO7OpDBIW_1ncxUX0/edit?usp=sharing
+    ** Example Lesson Plan - https://docs.google.com/document/d/1e_Aekz8WKNXSgG3tUanW6Oo53hC2vIg9BB2yCCg3dNQ/edit?usp=sharing
 
 3. Documents:
-  * Frameworks for a Data Management Curriculum - [http://library.umassmed.edu/data_management_frameworks.pdf](http://library.umassmed.edu/data_management_frameworks.pdf) 
+  * New England Collaborative Data Management Curriculum (NECDMC) - [http://library.umassmed.edu/necdmc/index](http://library.umassmed.edu/necdmc/index) 
 
 4. Speaker(s): 
   * Stephanie Wright (Mozilla)
