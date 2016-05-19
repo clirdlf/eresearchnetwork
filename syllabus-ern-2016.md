@@ -4,6 +4,10 @@ Wiki:
 
 [https://wiki.diglib.org/EResearch_Network](https://wiki.diglib.org/EResearch_Network)
 
+Open Science Framework for eResearch Network (for assigments and file sharing)
+
+[https://osf.io/pdn8z/](https://osf.io/pdn8z/)
+
 2016 ERN Roster
 
 [https://docs.google.com/spreadsheets/d/145hQ3OWdtj1y4Qw0HLfvi4x54Yy-c_a2JDfwyB4vmuY/edit?usp=sharing](https://docs.google.com/spreadsheets/d/145hQ3OWdtj1y4Qw0HLfvi4x54Yy-c_a2JDfwyB4vmuY/edit?usp=sharing)
