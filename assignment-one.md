@@ -2,10 +2,13 @@
 
 Due: June 8, 2016
 
+##Directions
+
 Submit to CLIR ERN OSF instance at https://osf.io/pdn8z/ 
   * In the files “pod”, you will see an OSF Storage -> DLF eRN Assignments folder
+  * Save the file with the following convention [assignment-one]-[institution-name].[file-extension]
 
-##For this exercise, we are asking you to pick between two options:
+For this exercise, we are asking you to pick between two options:
 
 1. Create a Data Management Roadshow.
   * Craft a short slide deck (6 to 10 slides) explaining data management and data library services to your faculty senate or governing body (a group of researchers). An example roadshow is here - https://docs.google.com/presentation/d/14Qa8l5BONFtmXaTic88uvffnG-PO7OpDBIW_1ncxUX0/edit?usp=sharing
