@@ -1,6 +1,6 @@
 #Assignment 1
 
-Due: June, 8, 2016
+Due: June 8, 2016
 
 Submit to CLIR ERN OSF instance at https://osf.io/pdn8z/ 
   * In the files “pod”, you will see an OSF Storage -> DLF eRN Assignments folder
