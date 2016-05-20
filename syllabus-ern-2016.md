@@ -69,15 +69,15 @@ Website:
 ### Documents: 
   *
 
-### Speaker(s): TBD
-  * 
+### Speaker(s): TBD 
 
 ## Data Discovery/Metadata and Curation (reusability? preservation?)
 
 ### Suggested Readings:
   * Tuarob, S., Pouchard, L. C., & C. Giles, L.. (2013). Automatic Tag Recommendation for Metadata Annotation Using Probabilistic Topic Modeling. In Proceedings of the 13th ACM/IEEE-CS Joint Conference on Digital Libraries. New York, NY, USA: ACM. <http://dx.doi.org/10.1145/2467696.2467706>
 
-### Exercise: Data Dictionary or Markup exercise
+### Exercise: 
+  * Data Dictionary or Markup exercise
 
 ### Documents: 
   * W3C Data on the Web Best Practices - [https://www.w3.org/TR/dwbp/](https://www.w3.org/TR/dwbp/)
@@ -89,7 +89,8 @@ Website:
 ### Suggested Readings: 
   * m, D. S., & Noh, Y. (2014). A Study of Public Library Patrons’ Understanding of Library Records and Data Privacy. International Journal of Knowledge Content Development & Technology, 4(1), 53-78. <http://central.oak.go.kr/repository/journal/14718/JSKTBN_2014_v4n1_53.pdf>  
 
-### Exercise: Negotiating a license for data submission and communicating copyrights
+### Exercise:
+  * Negotiating a license for data submission and communicating copyrights
 
 ### Documents: 
   * Council for Big Data Ethics and Society - [http://bdes.datasociety.net/](http://bdes.datasociety.net/)
