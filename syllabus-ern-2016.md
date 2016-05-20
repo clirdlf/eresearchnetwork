@@ -76,6 +76,7 @@ Website:
 2. Exercise: Data Dictionary or Markup exercise
 
 3. Documents: 
+  * W3C Data on the Web Best Practices - [https://www.w3.org/TR/dwbp/](https://www.w3.org/TR/dwbp/)
 
 4. Speaker(s): TBD
 
@@ -87,6 +88,7 @@ Website:
 2. Exercise: Negotiating a license for data submission and communicating copyrights
 
 3. Documents: 
+  * Council for Big Data Ethics and Society - [http://bdes.datasociety.net/](http://bdes.datasociety.net/)
 
 4. Speaker(s): TBD
 
