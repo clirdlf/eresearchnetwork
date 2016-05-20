@@ -19,9 +19,9 @@ Website:
 ## Data Advocacy (building advocates, partnerships internal/external, and promoting data literacy)
 
 1. Suggested Readings
-  * Piorun, Mary E., Donna Kafel, Tracey Leger-Hornby, Siamak Najafi, Elaine R. Martin, Paul Colombo, and Nancy R. LaPelle. 2012. "Teaching Research Data Management: An Undergraduate/Graduate Curriculum." Journal of eScience Librarianship 1(1): e1003. http://dx.doi.org/10.7191/jeslib.2012.1003
-  * Mooney, Hailey, and Breezy Silver. "Spread the news Promoting data services." College & Research Libraries News 71, no. 9 (2010): 480-483. http://crln.acrl.org/content/71/9/480.short
-  * Johnston, Lisa, and Jon Jeffryes. "Steal this idea: A library instructors’ guide to educating students in data management skills." College & Research Libraries News 75, no. 8 (2014): 431-434. http://crln.acrl.org/content/75/8/431.full
+  * Piorun, Mary E., Donna Kafel, Tracey Leger-Hornby, Siamak Najafi, Elaine R. Martin, Paul Colombo, and Nancy R. LaPelle. 2012. "Teaching Research Data Management: An Undergraduate/Graduate Curriculum." Journal of eScience Librarianship 1(1): e1003. <http://dx.doi.org/10.7191/jeslib.2012.1003>
+  * Mooney, Hailey, and Breezy Silver. "Spread the news Promoting data services." College & Research Libraries News 71, no. 9 (2010): 480-483. <http://crln.acrl.org/content/71/9/480.short>
+  * Johnston, Lisa, and Jon Jeffryes. "Steal this idea: A library instructors’ guide to educating students in data management skills." College & Research Libraries News 75, no. 8 (2014): 431-434. <http://crln.acrl.org/content/75/8/431.full>
 
 2. Exercise:
   * Complete Instructions for Assignment One - https://github.com/clirdlf/eresearchnetwork/blob/master/assignment-one.md
