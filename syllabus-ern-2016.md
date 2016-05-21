@@ -60,7 +60,9 @@ Website:
 
 ## Digital Scholarship, Digital Humanities, Data Visualization
 
-###Suggested Readings:
+### Suggested Readings:
+  * Berry, David M. 2011. "The computational turn: Thinking about the digital humanities." Culture Machine, 12(0), p.2. <http://culturemachine.net/index.php/cm/article/viewDownloadInterstitial/440/470.>
+  * Liu, Alan. 2013. "The Meaning of the Digital Humanities." PMLA 128 (2013): 409-23.
   * Sinclair, Bryan. 2014. “The University Library as Incubator for Digital Scholarship” EDUCAUSE Review Online. <http://er.educause.edu/articles/2014/6/the-university-library-as-incubator-for-digital-scholarship>
 
 ### Exercise:
