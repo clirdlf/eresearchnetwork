@@ -37,6 +37,8 @@ Website:
 
 ### Speaker(s): 
   * Stephanie Wright (Mozilla)
+  * Slides - <https://wiki.diglib.org/File:Wright_AdvocacyOutreach_sm.pptx>
+  * Video - 
 
 ## Data Management Planning and Funder Requirements
 
