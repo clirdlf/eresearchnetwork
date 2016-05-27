@@ -48,11 +48,11 @@ Website:
   * Michener, W. K. (2015). Ten Simple Rules for Creating a Good Data Management Plan. PLoS Comput Biol , 11(10). presented at the 10/2015. <http://dx.doi.org/10.1371/journal.pcbi.1004525>
 
 ### Exercise: Data Management Planning Exercise
-  * Materials from Jenny Muilenburg and Mariah Lebow’s session at Science Bootcamp West:
-    * Simplified data management plan 
-    * Case Study: Vitamin D Bipolar 
-    * Case Study: Highland Birds
-    * Case Study: Engineering
+* Materials adapted from Jenny Muilenburg and Mariah Lebow’s session at Science Boot Camp West 2014: "Data librarianship: An exploration of data services and management"
+    * Simplified data management plan [https://docs.google.com/document/d/1XnMr-hMPfiET9hCRhzV-DSBsaLdgeNEOnqKVTQHYQ98/edit?usp=sharing](https://docs.google.com/document/d/1XnMr-hMPfiET9hCRhzV-DSBsaLdgeNEOnqKVTQHYQ98/edit?usp=sharing)
+    * Case Study: Vitamin D Bipolar [https://docs.google.com/document/d/1KEXPDEDE6698lEkW7MYZxtqUqM14z9XTYKaG2U2lslY/edit?usp=sharing](https://docs.google.com/document/d/1KEXPDEDE6698lEkW7MYZxtqUqM14z9XTYKaG2U2lslY/edit?usp=sharing)
+    * Case Study: Highland Birds [https://docs.google.com/document/d/1jL5L26AsPnAXRzHnaEpS6ugp349bHgf359v9Qnin5_s/edit?usp=sharing](https://docs.google.com/document/d/1jL5L26AsPnAXRzHnaEpS6ugp349bHgf359v9Qnin5_s/edit?usp=sharing)
+    * Case Study: Engineering [https://docs.google.com/document/d/1mmcSoh_BtKo9yC5POPd7r4uJ9FEyBfhGwEEirxXJWDE/edit?usp=sharing](https://docs.google.com/document/d/1mmcSoh_BtKo9yC5POPd7r4uJ9FEyBfhGwEEirxXJWDE/edit?usp=sharing)
 
 ### Documents:
   * DMPTool - <https://dmptool.org/>
@@ -68,7 +68,7 @@ Website:
   * Sinclair, Bryan. 2014. “The University Library as Incubator for Digital Scholarship” EDUCAUSE Review Online. <http://er.educause.edu/articles/2014/6/the-university-library-as-incubator-for-digital-scholarship>
 
 ### Exercise:
-  *
+  * 
 
 ### Documents: 
   *
