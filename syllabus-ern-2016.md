@@ -76,10 +76,12 @@ Website:
 ### Speaker(s):
   * TBD
 
-## Data Discovery/Metadata and Curation (reusability? preservation?)
+## Data Discovery/Metadata and Reusability
 
 ### Suggested Readings:
-  * Tuarob, S., Pouchard, L. C., & C. Giles, L.. (2013). Automatic Tag Recommendation for Metadata Annotation Using Probabilistic Topic Modeling. In Proceedings of the 13th ACM/IEEE-CS Joint Conference on Digital Libraries. New York, NY, USA: ACM. <http://dx.doi.org/10.1145/2467696.2467706>
+  * Arlitsch, Kenning, and Patrick S. O'Brien. "Invisible institutional repositories: Addressing the low indexing ratios of IRs in Google Scholar." Library Hi Tech 30, no. 1 (2012): 60-81. <http://scholarworks.montana.edu/xmlui/bitstream/handle/1/3193/Arlitsch-Obrien-LHT-GS-final-revised_2012-02-18.pdf> 
+  * Torsten Reimer. "Less is More? A Metadata Schema for Data Repositories" Imperial College London Open Access and Digital Scholarship Blog. February 19, 2016. <http://wwwf.imperial.ac.uk/blog/openaccess/2016/02/19/less-is-more-metdata-schema-discovery-research-datary-of-research-data/>
+  * Dom Fripp. "Developing a Core Metadata Profile for the UK Research Data Discovery Service." JISC Research Data Discovery Service Blog <https://rdds.jiscinvolve.org/wp/2016/03/11/core_metadata_profile/>, March 11, 2016.
 
 ### Exercise: 
   * Data Dictionary or Markup exercise
