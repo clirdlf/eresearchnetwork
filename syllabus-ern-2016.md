@@ -84,7 +84,7 @@ Website:
   * Dom Fripp. "Developing a Core Metadata Profile for the UK Research Data Discovery Service." JISC Research Data Discovery Service Blog <https://rdds.jiscinvolve.org/wp/2016/03/11/core_metadata_profile/>, March 11, 2016.
 
 ### Exercise: 
-  * Data Dictionary or Markup exercise
+  * Build a Data Dictionary (either from scratch, or, conduct a metadata audit, decide which fields are minimum viable metadata, and create a data dictionary using those fields).
 
 ### Documents: 
   * W3C Data on the Web Best Practices - [https://www.w3.org/TR/dwbp/](https://www.w3.org/TR/dwbp/)
