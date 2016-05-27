@@ -87,9 +87,11 @@ Website:
   * Build a Data Dictionary (either from scratch, or, conduct a metadata audit, decide which fields are minimum viable metadata, and create a data dictionary using those fields).
 
 ### Documents: 
+  * Data Dictionary Example - <https://docs.google.com/document/d/1e0CnBViTMQ39pwVr8pWb8v51rCsICGAowP0FQcKsKUA/edit?usp=sharing>
   * W3C Data on the Web Best Practices - [https://www.w3.org/TR/dwbp/](https://www.w3.org/TR/dwbp/)
 
-### Speaker(s): TBD
+### Speaker(s):
+  * TBD
 
 ## Data Privacy and Data Ethics
 
