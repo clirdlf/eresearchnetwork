@@ -96,24 +96,34 @@ Website:
 ## Data Privacy and Data Ethics
 
 ### Suggested Readings: 
-  * m, D. S., & Noh, Y. (2014). A Study of Public Library Patrons’ Understanding of Library Records and Data Privacy. International Journal of Knowledge Content Development & Technology, 4(1), 53-78. <http://central.oak.go.kr/repository/journal/14718/JSKTBN_2014_v4n1_53.pdf>  
+  * Zimmer, Michael. (2010). "But the data is already public": on the ethics of research in Facebook. Ethics and information technology, 12(4), 313-325. <http://www.sfu.ca/~palys/Zimmer-2010-EthicsOfResearchFromFacebook.pdf>
+  * m, D. S., & Noh, Y. (2014). A Study of Public Library Patrons’ Understanding of Library Records and Data Privacy. International Journal of Knowledge Content Development & Technology, 4(1), 53-78. <http://central.oak.go.kr/repository/journal/14718/JSKTBN_2014_v4n1_53.pdf>
+  * Mannheimer S., Young SWH, Rossmann D. (2016) On the Ethics of Social Network Research in Libraries. Journal of Information, Communication, and Ethics in Society. 14(2). <http://scholarworks.montana.edu/xmlui/bitstream/handle/1/9470/Ethics-Social-Network-Research.pdf?sequence=3>
+  * OKCupid data release [http://www.engadget.com/2016/05/13/scientists-release-personal-data-for-70-000-okcupid-profiles/](http://www.engadget.com/2016/05/13/scientists-release-personal-data-for-70-000-okcupid-profiles/)
 
 ### Exercise:
-  * Negotiating a license for data submission and communicating copyrights
+  * Write a response to a data case study. Include analysis of where the study could enter ethical grey areas and how researchers can recognize and avoid these areas.
+  * Data Ethics Case Studies [http://www.datasociety.net/blog/2016/04/13/data-ethics-case-studies/](http://www.datasociety.net/blog/2016/04/13/data-ethics-case-studies/), 
 
 ### Documents: 
   * Council for Big Data Ethics and Society - [http://bdes.datasociety.net/](http://bdes.datasociety.net/)
+  * UK Data Archive - Sensitive data presentation [http://www.data-archive.ac.uk/media/374316/datacitationsensitivedata.pdf](http://www.data-archive.ac.uk/media/374316/datacitationsensitivedata.pdf)
 
-### Speaker(s): TBD
+### Speaker(s):
+  * TBD
 
 ## Assessment (Metrics for success with Data Services)
 
 ### Suggested Readings: 
   * How to Track the Impact of Research Data with Metrics - See more at: <http://www.dcc.ac.uk/resources/how-guides/track-data-impact-metrics>
+  * Assessing Data Services at University of Michigan (Presentation by Jake Carlson) http://www.slideshare.net/asist_org/rdap-16-how-do-we-know-where-to-grow-assessing-research-data-services-at-the-university-of-michigan-panel-4-measuring-up
+  * Assessing Data Services at James Madison (Presentation by Yasmeen Shorish) http://www.slideshare.net/asist_org/rdap-16-building-without-a-plan-how-do-you-assess-structural-strength-panel-4-measuring-up
 
-### Exercise: Analyzing user behavior and web analytics from examples of raw statistics in a data repository
+### Exercise:
+  * Analyzing user behavior and web analytics from examples of statistics in a data repository
 
 ### Documents: 
-  *
+  * Example .csv of data repository analytics data
 
-### Speaker(s): TBD
+### Speaker(s):
+  * TBD
