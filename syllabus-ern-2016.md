@@ -4,7 +4,9 @@
 
 [2016 ERN Peer Review Groupings for Assignments](https://docs.google.com/document/d/1oEimsMnbff0kantgGkecSB68ERY_zY6a-XT5G9s02Lo/edit?usp=sharing)
 
-[Open Science Framework for eResearch Network (for assigments and file sharing)](https://osf.io/pdn8z/)
+[Google Drive DLF ERN Folder (for assigments and file sharing)](https://drive.google.com/folderview?id=0B00qDiMLT3XddXBOWWRZM1RISkk&usp=sharing)
+
+[Open Science Framework for eResearch Network](https://osf.io/pdn8z/)
 
 Website: [https://www.diglib.org/groups/e-research-network/](https://www.diglib.org/groups/e-research-network/)
 
