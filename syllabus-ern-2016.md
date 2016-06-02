@@ -1,7 +1,7 @@
 # Curriculum and Rubrics of Study for DLF ERN 2016
 
 2016 ERN Roster
-[https://docs.google.com/spreadsheets/d/145hQ3OWdtj1y4Qw0HLfvi4x54Yy-c_a2JDfwyB4vmuY/edit?usp=sharing](https://docs.google.com/spreadsheets/d/145hQ3OWdtj1y4Qw0HLfvi4x54Yy-c_a2JDfwyB4vmuY/edit?usp=sharing)
+[2016 ERN Roster](https://docs.google.com/spreadsheets/d/145hQ3OWdtj1y4Qw0HLfvi4x54Yy-c_a2JDfwyB4vmuY/edit?usp=sharing)
 
 2016 ERN Peer Review Groupings for Assignments
 [https://docs.google.com/document/d/1oEimsMnbff0kantgGkecSB68ERY_zY6a-XT5G9s02Lo/edit?usp=sharing](https://docs.google.com/document/d/1oEimsMnbff0kantgGkecSB68ERY_zY6a-XT5G9s02Lo/edit?usp=sharing)
