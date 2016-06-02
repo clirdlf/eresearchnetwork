@@ -12,6 +12,10 @@ Open Science Framework for eResearch Network (for assigments and file sharing)
 
 [https://docs.google.com/spreadsheets/d/145hQ3OWdtj1y4Qw0HLfvi4x54Yy-c_a2JDfwyB4vmuY/edit?usp=sharing](https://docs.google.com/spreadsheets/d/145hQ3OWdtj1y4Qw0HLfvi4x54Yy-c_a2JDfwyB4vmuY/edit?usp=sharing)
 
+2016 ERN Peer Review Groupings for Assignments
+
+[https://docs.google.com/document/d/1oEimsMnbff0kantgGkecSB68ERY_zY6a-XT5G9s02Lo/edit?usp=sharing](https://docs.google.com/document/d/1oEimsMnbff0kantgGkecSB68ERY_zY6a-XT5G9s02Lo/edit?usp=sharing)
+
 Website:
 
 [https://www.diglib.org/groups/e-research-network/](https://www.diglib.org/groups/e-research-network/)
@@ -37,8 +41,8 @@ Website:
 
 ### Speaker(s): 
   * Stephanie Wright (Mozilla)
-  * Slides - <https://wiki.diglib.org/File:Wright_AdvocacyOutreach_sm.pptx>
-  * Video - 
+  * Slides - <https://wiki.diglib.org/images/8/86/Wright_AdvocacyOutreach_sm.pptx>
+  * Video - <http://clir.adobeconnect.com/p2neutmdcoo/>
 
 ## Data Management Planning and Funder Requirements
 
@@ -115,9 +119,10 @@ Website:
 ## Assessment (Metrics for success with Data Services)
 
 ### Suggested Readings: 
-  * How to Track the Impact of Research Data with Metrics - See more at: <http://www.dcc.ac.uk/resources/how-guides/track-data-impact-metrics>
-  * Assessing Data Services at University of Michigan (Presentation by Jake Carlson) http://www.slideshare.net/asist_org/rdap-16-how-do-we-know-where-to-grow-assessing-research-data-services-at-the-university-of-michigan-panel-4-measuring-up
-  * Assessing Data Services at James Madison (Presentation by Yasmeen Shorish) http://www.slideshare.net/asist_org/rdap-16-building-without-a-plan-how-do-you-assess-structural-strength-panel-4-measuring-up
+  * Bonaguro, Joy. 2015. "How to Measure Open Data" - <https://datasf.org/blog/how-to-measure-open-data/>
+  * "How to Track the Impact of Research Data with Metrics" - <http://www.dcc.ac.uk/resources/how-guides/track-data-impact-metrics>
+  * "Assessing Data Services at University of Michigan" (Presentation by Jake Carlson) http://www.slideshare.net/asist_org/rdap-16-how-do-we-know-where-to-grow-assessing-research-data-services-at-the-university-of-michigan-panel-4-measuring-up
+  * "Assessing Data Services at James Madison" (Presentation by Yasmeen Shorish) http://www.slideshare.net/asist_org/rdap-16-building-without-a-plan-how-do-you-assess-structural-strength-panel-4-measuring-up
 
 ### Exercise:
   * Analyzing user behavior and web analytics from examples of statistics in a data repository
