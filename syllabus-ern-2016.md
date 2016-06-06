@@ -120,7 +120,7 @@ Wiki: [https://wiki.diglib.org/EResearch_Network](https://wiki.diglib.org/EResea
   * Analyzing user behavior and web analytics from examples of statistics in a data repository
 
 ### Documents: 
-  * Example .csv of data repository analytics data
+  * [Example .csv of data repository analytics data (including Acquisition, Behavior, and User facets)](https://drive.google.com/folderview?id=0B00qDiMLT3XdbXFONEVNUVc3M00&usp=sharing)
 
 ### Speaker(s):
   * TBD
