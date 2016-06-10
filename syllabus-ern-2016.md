@@ -62,7 +62,7 @@ Wiki: [https://wiki.diglib.org/EResearch_Network](https://wiki.diglib.org/EResea
   * Berry, David M. 2011. "The computational turn: Thinking about the digital humanities." Culture Machine, 12(0), p.2. <http://culturemachine.net/index.php/cm/article/viewDownloadInterstitial/440/470.>
   * Liu, Alan. 2013. "The Meaning of the Digital Humanities." PMLA 128 (2013): 409-23.
   * Posner, Miriam. 2016. "Money and Time." <http://miriamposner.com/blog/money-and-time/>
-  * Sinclair, Bryan. 2014. “The University Library as Incubator for Digital Scholarship” EDUCAUSE Review Online. <http://er.educause.edu/articles/2014/6/the-university-library-as-incubator-for-digital-scholarship>
+  * Sinclair, Bryan. 2014. "The University Library as Incubator for Digital Scholarship" EDUCAUSE Review Online. <http://er.educause.edu/articles/2014/6/the-university-library-as-incubator-for-digital-scholarship>
 
 ### Exercise:
   * Propose a Digital Scholarship project for your university. Include library team, potential partners, potential challenges, potential benefits 
