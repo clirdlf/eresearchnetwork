@@ -4,9 +4,9 @@ Due: June 8, 2016
 
 ##Directions
 
-Submit to CLIR ERN OSF instance at https://osf.io/pdn8z/ 
-  * In the files “pod”, you will see an OSF Storage -> DLF eRN Assignments folder
+Submit to CLIR ERN OSF instance at <https://osf.io/pdn8z/>
   * Save the file with the following convention [assignment-one]-[institution-name].[file-extension]
+  * Add the file to appropriate assignment folder in this [DLf-eRN-Assignments folder](https://drive.google.com/folderview?id=0B00qDiMLT3XddXBOWWRZM1RISkk&usp=sharing)
 
 For this exercise, we are asking you to pick between two options:
 
