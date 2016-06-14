@@ -20,7 +20,7 @@ Wiki: [https://wiki.diglib.org/EResearch_Network](https://wiki.diglib.org/EResea
   * Johnston, Lisa, and Jon Jeffryes. "Steal this idea: A library instructors’ guide to educating students in data management skills." College & Research Libraries News 75, no. 8 (2014): 431-434. <http://crln.acrl.org/content/75/8/431.full>
 
 ### Exercise:
-  * Complete Instructions for Assignment One - <https://github.com/clirdlf/eresearchnetwork/blob/master/assignment-one.md>
+  * [Complete Instructions for Assignment One](https://github.com/clirdlf/eresearchnetwork/blob/master/assignment-one.md)
   * Roadshow(slideshow) for promoting Data Services OR Lesson Plan for Data Management Curriculum
     * Example Roadshow - <https://docs.google.com/presentation/d/14Qa8l5BONFtmXaTic88uvffnG-PO7OpDBIW_1ncxUX0/edit?usp=sharing>
     * Example Lesson Plan - <https://docs.google.com/document/d/1e_Aekz8WKNXSgG3tUanW6Oo53hC2vIg9BB2yCCg3dNQ/edit?usp=sharing>
@@ -44,6 +44,7 @@ Wiki: [https://wiki.diglib.org/EResearch_Network](https://wiki.diglib.org/EResea
   * Michener, W. K. (2015). Ten Simple Rules for Creating a Good Data Management Plan. PLoS Comput Biol , 11(10). presented at the 10/2015. <http://dx.doi.org/10.1371/journal.pcbi.1004525>
 
 ### Exercise: Data Management Planning Exercise
+* [Complete Instructions for Assignment Two](https://github.com/clirdlf/eresearchnetwork/blob/master/assignment-two.md)
 * Materials adapted from Jenny Muilenburg and Mariah Lebow’s session at Science Boot Camp West 2014: "Data librarianship: An exploration of data services and management"
     * Simplified data management plan [https://docs.google.com/document/d/1XnMr-hMPfiET9hCRhzV-DSBsaLdgeNEOnqKVTQHYQ98/edit?usp=sharing](https://docs.google.com/document/d/1XnMr-hMPfiET9hCRhzV-DSBsaLdgeNEOnqKVTQHYQ98/edit?usp=sharing)
     * Case Study: Vitamin D Bipolar [https://docs.google.com/document/d/1KEXPDEDE6698lEkW7MYZxtqUqM14z9XTYKaG2U2lslY/edit?usp=sharing](https://docs.google.com/document/d/1KEXPDEDE6698lEkW7MYZxtqUqM14z9XTYKaG2U2lslY/edit?usp=sharing)
