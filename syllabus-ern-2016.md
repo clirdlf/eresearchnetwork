@@ -55,7 +55,9 @@ Wiki: [https://wiki.diglib.org/EResearch_Network](https://wiki.diglib.org/EResea
   * DMPTool - <https://dmptool.org/>
 
 ### Speaker(s):
-  * Jeff de La Beaujardiere - NOAA, Anne Maglia - NSF, JP Kim and Dina Paltoo - NIH 
+  * Jeff de La Beaujardiere - NOAA, Anne Maglia - NSF, JP Kim and Dina Paltoo - NIH
+  * Slides - <https://wiki.diglib.org/File:ERN-dmp-funder-requirements.pdf>
+  * Video - <http://clir.adobeconnect.com/p96s4hor04r/>
 
 ## Digital Scholarship, Digital Humanities, Data Visualization
 
