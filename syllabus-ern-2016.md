@@ -71,7 +71,7 @@ Wiki: [https://wiki.diglib.org/EResearch_Network](https://wiki.diglib.org/EResea
   * Propose a Digital Scholarship project for your university. Include library team, potential partners, potential challenges, potential benefits 
 
 ### Documents: 
-  * Digital Scholarship Project Blueprint - <https://docs.google.com/document/d/1LpEUK2n7zEyIx1bNTcokDJ_CWFEgdJkXDGuU7Fgq9pE/edit?usp=sharing>
+  * [Digital Scholarship Project Blueprint](https://docs.google.com/document/d/1LpEUK2n7zEyIx1bNTcokDJ_CWFEgdJkXDGuU7Fgq9pE/edit?usp=sharing)
 
 ### Speaker(s):
   * TBD
@@ -87,7 +87,7 @@ Wiki: [https://wiki.diglib.org/EResearch_Network](https://wiki.diglib.org/EResea
   * Build a Data Dictionary (either from scratch, or, conduct a metadata audit, decide which fields are minimum viable metadata, and create a data dictionary using those fields).
 
 ### Documents: 
-  * Data Dictionary Example - <https://docs.google.com/document/d/1e0CnBViTMQ39pwVr8pWb8v51rCsICGAowP0FQcKsKUA/edit?usp=sharing>
+  * [Data Dictionary Example](https://docs.google.com/document/d/1e0CnBViTMQ39pwVr8pWb8v51rCsICGAowP0FQcKsKUA/edit?usp=sharing)
   * W3C Data on the Web Best Practices - [https://www.w3.org/TR/dwbp/](https://www.w3.org/TR/dwbp/)
 
 ### Speaker(s):
@@ -107,7 +107,7 @@ Wiki: [https://wiki.diglib.org/EResearch_Network](https://wiki.diglib.org/EResea
 
 ### Documents: 
   * Council for Big Data Ethics and Society - [http://bdes.datasociety.net/](http://bdes.datasociety.net/)
-  * UK Data Archive - Sensitive data presentation [http://www.data-archive.ac.uk/media/374316/datacitationsensitivedata.pdf](http://www.data-archive.ac.uk/media/374316/datacitationsensitivedata.pdf)
+  * [UK Data Archive - Sensitive data presentation](http://www.data-archive.ac.uk/media/374316/datacitationsensitivedata.pdf)
 
 ### Speaker(s):
   * TBD
