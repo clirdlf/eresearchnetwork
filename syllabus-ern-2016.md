@@ -74,7 +74,7 @@ Wiki: [https://wiki.diglib.org/EResearch_Network](https://wiki.diglib.org/EResea
   * [Digital Scholarship Project Blueprint](https://docs.google.com/document/d/1LpEUK2n7zEyIx1bNTcokDJ_CWFEgdJkXDGuU7Fgq9pE/edit?usp=sharing)
 
 ### Speaker(s):
-  * TBD
+  * Amanda Visconti, Assistant Professor, Purdue University Libraries [AmandaVisconti.com](http://www.amandavisconti.com/)
 
 ## Data Discovery/Metadata and Reusability
 
