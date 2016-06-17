@@ -22,8 +22,8 @@ Wiki: [https://wiki.diglib.org/EResearch_Network](https://wiki.diglib.org/EResea
 ### Exercise:
   * [Complete Instructions for Assignment One](https://github.com/clirdlf/eresearchnetwork/blob/master/assignment-one.md)
   * Roadshow(slideshow) for promoting Data Services OR Lesson Plan for Data Management Curriculum
-    * Example Roadshow - <https://docs.google.com/presentation/d/14Qa8l5BONFtmXaTic88uvffnG-PO7OpDBIW_1ncxUX0/edit?usp=sharing>
-    * Example Lesson Plan - <https://docs.google.com/document/d/1e_Aekz8WKNXSgG3tUanW6Oo53hC2vIg9BB2yCCg3dNQ/edit?usp=sharing>
+    * [Example Roadshow](https://docs.google.com/presentation/d/14Qa8l5BONFtmXaTic88uvffnG-PO7OpDBIW_1ncxUX0/edit?usp=sharing)
+    * [Example Lesson Plan](https://docs.google.com/document/d/1e_Aekz8WKNXSgG3tUanW6Oo53hC2vIg9BB2yCCg3dNQ/edit?usp=sharing)
 
 ### Documents:
   * New England Collaborative Data Management Curriculum (NECDMC) - <http://library.umassmed.edu/necdmc/index>
@@ -46,10 +46,10 @@ Wiki: [https://wiki.diglib.org/EResearch_Network](https://wiki.diglib.org/EResea
 ### Exercise: Data Management Planning Exercise
 * [Complete Instructions for Assignment Two](https://github.com/clirdlf/eresearchnetwork/blob/master/assignment-two.md)
 * Materials adapted from Jenny Muilenburg and Mariah Lebow’s session at Science Boot Camp West 2014: "Data librarianship: An exploration of data services and management"
-    * Simplified data management plan [https://docs.google.com/document/d/1XnMr-hMPfiET9hCRhzV-DSBsaLdgeNEOnqKVTQHYQ98/edit?usp=sharing](https://docs.google.com/document/d/1XnMr-hMPfiET9hCRhzV-DSBsaLdgeNEOnqKVTQHYQ98/edit?usp=sharing)
-    * Case Study: Vitamin D Bipolar [https://docs.google.com/document/d/1KEXPDEDE6698lEkW7MYZxtqUqM14z9XTYKaG2U2lslY/edit?usp=sharing](https://docs.google.com/document/d/1KEXPDEDE6698lEkW7MYZxtqUqM14z9XTYKaG2U2lslY/edit?usp=sharing)
-    * Case Study: Highland Birds [https://docs.google.com/document/d/1jL5L26AsPnAXRzHnaEpS6ugp349bHgf359v9Qnin5_s/edit?usp=sharing](https://docs.google.com/document/d/1jL5L26AsPnAXRzHnaEpS6ugp349bHgf359v9Qnin5_s/edit?usp=sharing)
-    * Case Study: Engineering [https://docs.google.com/document/d/1mmcSoh_BtKo9yC5POPd7r4uJ9FEyBfhGwEEirxXJWDE/edit?usp=sharing](https://docs.google.com/document/d/1mmcSoh_BtKo9yC5POPd7r4uJ9FEyBfhGwEEirxXJWDE/edit?usp=sharing)
+    * [Simplified data management plan](https://docs.google.com/document/d/1XnMr-hMPfiET9hCRhzV-DSBsaLdgeNEOnqKVTQHYQ98/edit?usp=sharing)
+    * [Case Study: Vitamin D Bipolar](https://docs.google.com/document/d/1KEXPDEDE6698lEkW7MYZxtqUqM14z9XTYKaG2U2lslY/edit?usp=sharing)
+    * [Case Study: Highland Birds](https://docs.google.com/document/d/1jL5L26AsPnAXRzHnaEpS6ugp349bHgf359v9Qnin5_s/edit?usp=sharing)
+    * [Case Study: Engineering](https://docs.google.com/document/d/1mmcSoh_BtKo9yC5POPd7r4uJ9FEyBfhGwEEirxXJWDE/edit?usp=sharing)
 
 ### Documents:
   * DMPTool - <https://dmptool.org/>
@@ -103,7 +103,7 @@ Wiki: [https://wiki.diglib.org/EResearch_Network](https://wiki.diglib.org/EResea
 
 ### Exercise:
   * Write a response to a data case study. Include analysis of where the study could enter ethical grey areas and how researchers can recognize and avoid these areas.
-  * Data Ethics Case Studies [http://www.datasociety.net/blog/2016/04/13/data-ethics-case-studies/](http://www.datasociety.net/blog/2016/04/13/data-ethics-case-studies/), 
+  * [Data Ethics Case Studies](http://www.datasociety.net/blog/2016/04/13/data-ethics-case-studies/) 
 
 ### Documents: 
   * Council for Big Data Ethics and Society - [http://bdes.datasociety.net/](http://bdes.datasociety.net/)
