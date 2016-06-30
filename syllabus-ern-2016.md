@@ -77,22 +77,6 @@ Wiki: [https://wiki.diglib.org/EResearch_Network](https://wiki.diglib.org/EResea
   * Amanda Visconti, Assistant Professor, Purdue University Libraries [AmandaVisconti.com](http://www.amandavisconti.com/) [@Literature_Geek](https://twitter.com/literature_geek)
   * Slides:
   * Video:
-  * Slides:
-  * Video:
-  * Slides:
-  * Video:
-  * Slides:
-  * Video:
-  * Slides:
-  * Video:
-  * Slides:
-  * Video:
-  * Slides:
-  * Video:
-  * Slides:
-  * Video:
-  * Slides:
-  * Video:
 
 ## Data Discovery/Metadata and Reusability
 
