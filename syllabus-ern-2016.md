@@ -8,6 +8,8 @@
 
 [Open Science Framework for eResearch Network](https://osf.io/pdn8z/)
 
+[eResearch Network Slack Instance](https://eresearchnetwork.slack.com/)
+
 Website: [https://www.diglib.org/groups/e-research-network/](https://www.diglib.org/groups/e-research-network/)
 
 Wiki: [https://wiki.diglib.org/EResearch_Network](https://wiki.diglib.org/EResearch_Network)
