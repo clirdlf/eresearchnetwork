@@ -122,7 +122,7 @@ Wiki: [https://wiki.diglib.org/EResearch_Network](https://wiki.diglib.org/EResea
   * Bonaguro, Joy. 2015. "How to Measure Open Data" - <https://datasf.org/blog/how-to-measure-open-data/>
   * Neylon, Cameron. 2016. "What constitutes research data? What is citation?" - <https://rdmetrics.jiscinvolve.org/wp/2016/04/12/what-constitutes-research-data-what-is-citation/>
   * "How to Track the Impact of Research Data with Metrics" - <http://www.dcc.ac.uk/resources/how-guides/track-data-impact-metrics>
-  * "Assessing Data Services at University of Michigan" (Presentation by Jake Carlson) http://www.slideshare.net/asist_org/rdap-16-how-do-we-know-where-to-grow-assessing-research-data-services-at-the-university-of-michigan-panel-4-measuring-up
+  * "Assessing Data Services at University of Michigan" (Presentation).  Carlson, Jake. <http://www.slideshare.net/asist_org/rdap-16-how-do-we-know-where-to-grow-assessing-research-data-services-at-the-university-of-michigan-panel-4-measuring-up>
   * "Assessing Data Services at James Madison" (Presentation). Shorish, Yasmeen. <http://www.slideshare.net/asist_org/rdap-16-building-without-a-plan-how-do-you-assess-structural-strength-panel-4-measuring-up>
 
 ### Exercise:
