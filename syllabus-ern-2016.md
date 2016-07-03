@@ -24,8 +24,8 @@ Wiki: [https://wiki.diglib.org/EResearch_Network](https://wiki.diglib.org/EResea
 ### Exercise:
   * [Complete Instructions for Assignment One](https://github.com/clirdlf/eresearchnetwork/blob/master/assignment-one.md)
   * Roadshow(slideshow) for promoting Data Services OR Lesson Plan for Data Management Curriculum
-    * [Example Roadshow](https://docs.google.com/presentation/d/14Qa8l5BONFtmXaTic88uvffnG-PO7OpDBIW_1ncxUX0/edit?usp=sharing)
-    * [Example Lesson Plan](https://docs.google.com/document/d/1e_Aekz8WKNXSgG3tUanW6Oo53hC2vIg9BB2yCCg3dNQ/edit?usp=sharing)
+  * [Example Roadshow](https://docs.google.com/presentation/d/14Qa8l5BONFtmXaTic88uvffnG-PO7OpDBIW_1ncxUX0/edit?usp=sharing)
+  * [Example Lesson Plan](https://docs.google.com/document/d/1e_Aekz8WKNXSgG3tUanW6Oo53hC2vIg9BB2yCCg3dNQ/edit?usp=sharing)
 
 ### Documents:
   * New England Collaborative Data Management Curriculum (NECDMC) - <http://library.umassmed.edu/necdmc/index>
@@ -123,7 +123,7 @@ Wiki: [https://wiki.diglib.org/EResearch_Network](https://wiki.diglib.org/EResea
   * Neylon, Cameron. 2016. "What constitutes research data? What is citation?" - <https://rdmetrics.jiscinvolve.org/wp/2016/04/12/what-constitutes-research-data-what-is-citation/>
   * "How to Track the Impact of Research Data with Metrics" - <http://www.dcc.ac.uk/resources/how-guides/track-data-impact-metrics>
   * "Assessing Data Services at University of Michigan" (Presentation by Jake Carlson) http://www.slideshare.net/asist_org/rdap-16-how-do-we-know-where-to-grow-assessing-research-data-services-at-the-university-of-michigan-panel-4-measuring-up
-  * "Assessing Data Services at James Madison" (Presentation by Yasmeen Shorish) http://www.slideshare.net/asist_org/rdap-16-building-without-a-plan-how-do-you-assess-structural-strength-panel-4-measuring-up
+  * "Assessing Data Services at James Madison" (Presentation). Shorish, Yasmeen. <http://www.slideshare.net/asist_org/rdap-16-building-without-a-plan-how-do-you-assess-structural-strength-panel-4-measuring-up>
 
 ### Exercise:
   * Analyzing user behavior and web analytics from examples of statistics in a data repository
