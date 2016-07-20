@@ -70,7 +70,8 @@ Wiki: [https://wiki.diglib.org/EResearch_Network](https://wiki.diglib.org/EResea
 * Sinclair, Bryan. 2014. "The University Library as Incubator for Digital Scholarship" EDUCAUSE Review Online. <http://er.educause.edu/articles/2014/6/the-university-library-as-incubator-for-digital-scholarship>
 
 ### Exercise:
-* Propose a Digital Scholarship project for your university. Include library team, potential partners, potential challenges, potential benefits 
+* Propose a Digital Scholarship project for your university. 
+  * [Complete Instructions for Assignment Three](https://github.com/clirdlf/eresearchnetwork/blob/master/assignment-three.md)
 
 ### Documents: 
 * [Digital Scholarship Project Blueprint](https://docs.google.com/document/d/1LpEUK2n7zEyIx1bNTcokDJ_CWFEgdJkXDGuU7Fgq9pE/edit?usp=sharing)
