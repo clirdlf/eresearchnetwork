@@ -78,7 +78,7 @@ Wiki: [https://wiki.diglib.org/EResearch_Network](https://wiki.diglib.org/EResea
 
 ### Speaker(s):
 * Amanda Visconti, Assistant Professor, Purdue University Libraries [AmandaVisconti.com](http://www.amandavisconti.com/) [@Literature_Geek](https://twitter.com/literature_geek)
-  * Slides:
+  * Slides (as blog post and transcript): <http://literaturegeek.com/2016/07/21/dlf-digital-humanities-what-why-how>
   * Video: <http://clir.adobeconnect.com/p9qmqw2b9w5/>
 
 ## Data Discovery/Metadata and Reusability
