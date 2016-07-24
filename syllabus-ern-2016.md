@@ -23,7 +23,7 @@ Wiki: [https://wiki.diglib.org/EResearch_Network](https://wiki.diglib.org/EResea
 
 ### Exercise:
 * [Complete Instructions for Assignment One](https://github.com/clirdlf/eresearchnetwork/blob/master/assignment-one.md)
-* Roadshow(slideshow) for promoting Data Services OR Lesson Plan for Data Management Curriculum
+* Create a Roadshow(slideshow) for promoting Data Services OR Lesson Plan for Data Management Curriculum
   * [Example Roadshow](https://docs.google.com/presentation/d/14Qa8l5BONFtmXaTic88uvffnG-PO7OpDBIW_1ncxUX0/edit?usp=sharing)
   * [Example Lesson Plan](https://docs.google.com/document/d/1e_Aekz8WKNXSgG3tUanW6Oo53hC2vIg9BB2yCCg3dNQ/edit?usp=sharing)
 
@@ -70,7 +70,7 @@ Wiki: [https://wiki.diglib.org/EResearch_Network](https://wiki.diglib.org/EResea
 * Sinclair, Bryan. 2014. "The University Library as Incubator for Digital Scholarship" EDUCAUSE Review Online. <http://er.educause.edu/articles/2014/6/the-university-library-as-incubator-for-digital-scholarship>
 
 ### Exercise:
-* Propose a Digital Scholarship project for your university. 
+* Propose a digital scholarship project for your university by drafting a project plan. 
   * [Complete Instructions for Assignment Three](https://github.com/clirdlf/eresearchnetwork/blob/master/assignment-three.md)
 
 ### Documents: 
