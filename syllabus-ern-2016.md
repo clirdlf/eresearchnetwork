@@ -107,7 +107,7 @@ Wiki: [https://wiki.diglib.org/EResearch_Network](https://wiki.diglib.org/EResea
 * OKCupid data release [http://www.engadget.com/2016/05/13/scientists-release-personal-data-for-70-000-okcupid-profiles/](http://www.engadget.com/2016/05/13/scientists-release-personal-data-for-70-000-okcupid-profiles/)
 
 ### Exercise:
-* Write a response to a data case study. Include analysis of where the study could enter ethical grey areas and how researchers can recognize and avoid these areas.
+* Write an essay response to a data case study (TBD). Include analysis of where the study could enter ethical grey areas and how researchers can recognize and avoid these areas.
 * [Data Ethics Case Studies](http://www.datasociety.net/blog/2016/04/13/data-ethics-case-studies/) 
 
 ### Documents: 
