@@ -89,7 +89,7 @@ Wiki: [https://wiki.diglib.org/EResearch_Network](https://wiki.diglib.org/EResea
 * Dom Fripp. "Developing a Core Metadata Profile for the UK Research Data Discovery Service." JISC Research Data Discovery Service Blog <https://rdds.jiscinvolve.org/wp/2016/03/11/core_metadata_profile/>, March 11, 2016.
 
 ### Exercise: 
-* Build a Data Dictionary (either from scratch, or, conduct a metadata audit, decide which fields are minimum viable metadata, and create a data dictionary using those fields).
+* Build a Data Dictionary (either from scratch OR conduct a metadata audit, decide which fields are minimum viable metadata, and create a data dictionary using those fields).
 
 ### Documents: 
 * [Data Dictionary Example](https://docs.google.com/document/d/1e0CnBViTMQ39pwVr8pWb8v51rCsICGAowP0FQcKsKUA/edit?usp=sharing)
