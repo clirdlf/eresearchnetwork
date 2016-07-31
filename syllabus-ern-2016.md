@@ -102,7 +102,7 @@ Wiki: [https://wiki.diglib.org/EResearch_Network](https://wiki.diglib.org/EResea
 
 ### Suggested Readings: 
 * Zimmer, Michael. (2010). "But the data is already public": on the ethics of research in Facebook. Ethics and information technology, 12(4), 313-325. <http://www.sfu.ca/~palys/Zimmer-2010-EthicsOfResearchFromFacebook.pdf>
-* m, D. S., & Noh, Y. (2014). A Study of Public Library Patrons’ Understanding of Library Records and Data Privacy. International Journal of Knowledge Content Development & Technology, 4(1), 53-78. <http://central.oak.go.kr/repository/journal/14718/JSKTBN_2014_v4n1_53.pdf>
+* m, D. S., & Noh, Y. (2014). "A Study of Public Library Patrons’ Understanding of Library Records and Data Privacy." International Journal of Knowledge Content Development & Technology, 4(1), 53-78. <http://central.oak.go.kr/repository/journal/14718/JSKTBN_2014_v4n1_53.pdf>
 * Mannheimer S., Young SWH, Rossmann D. (2016) On the Ethics of Social Network Research in Libraries. Journal of Information, Communication, and Ethics in Society. 14(2). <http://scholarworks.montana.edu/xmlui/bitstream/handle/1/9470/Ethics-Social-Network-Research.pdf?sequence=3>
 * OKCupid data release [http://www.engadget.com/2016/05/13/scientists-release-personal-data-for-70-000-okcupid-profiles/](http://www.engadget.com/2016/05/13/scientists-release-personal-data-for-70-000-okcupid-profiles/)
 
