@@ -1,6 +1,6 @@
 #Assignment 3
 
-Due: August 10, 2016
+Due: August 17, 2016
 
 ##Directions
 
