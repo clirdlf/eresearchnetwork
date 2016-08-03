@@ -96,7 +96,9 @@ Wiki: [https://wiki.diglib.org/EResearch_Network](https://wiki.diglib.org/EResea
 * W3C Data on the Web Best Practices - [https://www.w3.org/TR/dwbp/](https://www.w3.org/TR/dwbp/)
 
 ### Speaker(s):
-* TBD
+* Dom Fripp (@domicus), Senior curation metadata developer for JISC
+  * video:
+  * slides:
 
 ## Data Privacy and Data Ethics
 
