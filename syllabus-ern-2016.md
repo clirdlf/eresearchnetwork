@@ -117,7 +117,9 @@ Wiki: [https://wiki.diglib.org/EResearch_Network](https://wiki.diglib.org/EResea
 * [UK Data Archive - Sensitive data presentation](http://www.data-archive.ac.uk/media/374316/datacitationsensitivedata.pdf)
 
 ### Speaker(s):
-* TBD
+* Bonnie Tijerina (@bonlth), Data & Society Fellow at Data & Society Research Institute
+* video:
+* slides:
 
 ## Assessment (Metrics for success with Data Services)
 
