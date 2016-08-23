@@ -95,6 +95,7 @@ Wiki: [https://wiki.diglib.org/EResearch_Network](https://wiki.diglib.org/EResea
 ### Documents: 
 * [Data Dictionary Example](https://docs.google.com/document/d/1e0CnBViTMQ39pwVr8pWb8v51rCsICGAowP0FQcKsKUA/edit?usp=sharing)
 * W3C Data on the Web Best Practices - [https://www.w3.org/TR/dwbp/](https://www.w3.org/TR/dwbp/)
+* FAIR Data Principles - [https://www.force11.org/group/fairgroup/fairprinciples](https://www.force11.org/group/fairgroup/fairprinciples) 
 
 ### Speaker(s):
 * Dom Fripp (@domicus), Senior curation metadata developer for JISC
