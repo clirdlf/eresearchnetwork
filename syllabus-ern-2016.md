@@ -90,6 +90,7 @@ Wiki: [https://wiki.diglib.org/EResearch_Network](https://wiki.diglib.org/EResea
 
 ### Exercise: 
 * Build a Data Dictionary (either from scratch OR conduct a metadata audit, decide which fields are minimum viable metadata, and create a data dictionary using those fields).
+  * [Complete Instructions for Assignment Four](https://github.com/clirdlf/eresearchnetwork/blob/master/assignment-four.md)
 
 ### Documents: 
 * [Data Dictionary Example](https://docs.google.com/document/d/1e0CnBViTMQ39pwVr8pWb8v51rCsICGAowP0FQcKsKUA/edit?usp=sharing)
