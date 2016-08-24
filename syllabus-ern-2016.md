@@ -99,7 +99,7 @@ Wiki: [https://wiki.diglib.org/EResearch_Network](https://wiki.diglib.org/EResea
 
 ### Speaker(s):
 * Dom Fripp [@Domicus](https://twitter.com/domicus), Senior curation metadata developer for JISC
-  * Slides: <https://osf.io/zfweh/>
+  * Slides: <https://wiki.diglib.org/images/4/42/ERN-HowMuchMetadata-DomFripp.pdf>
   * Video: <http://clir.adobeconnect.com/p529bfkjbgs/>
 
 ## Data Privacy and Data Ethics
