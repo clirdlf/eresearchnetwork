@@ -120,8 +120,8 @@ Wiki: [https://wiki.diglib.org/EResearch_Network](https://wiki.diglib.org/EResea
 
 ### Speaker(s):
 * Bonnie Tijerina (@bonlth), Data & Society Fellow at Data & Society Research Institute
-* video:
-* slides:
+  * Slides:
+  * Video:
 
 ## Assessment (Metrics for success with Data Services)
 
@@ -140,3 +140,5 @@ Wiki: [https://wiki.diglib.org/EResearch_Network](https://wiki.diglib.org/EResea
 
 ### Speaker(s):
 * TBD
+  * Slides:
+  * Video:
