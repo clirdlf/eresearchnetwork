@@ -112,6 +112,7 @@ Wiki: [https://wiki.diglib.org/EResearch_Network](https://wiki.diglib.org/EResea
 
 ### Exercise:
 * Write an essay response to a data case study (TBD). Include analysis of where the study could enter ethical grey areas and how researchers can recognize and avoid these areas.
+  * [Complete Instructions for Assignment Five](https://github.com/clirdlf/eresearchnetwork/blob/master/assignment-five.md)
 * [Data Ethics Case Studies](http://www.datasociety.net/blog/2016/04/13/data-ethics-case-studies/) 
 
 ### Documents: 
@@ -134,6 +135,7 @@ Wiki: [https://wiki.diglib.org/EResearch_Network](https://wiki.diglib.org/EResea
 
 ### Exercise:
 * Analyzing user behavior and web analytics from examples of statistics in a data repository
+  * [Complete Instructions for Assignment Six](https://github.com/clirdlf/eresearchnetwork/blob/master/assignment-six.md)
 
 ### Documents: 
 * [Example .csv of data repository analytics data (including Acquisition, Behavior, and User facets)](https://drive.google.com/folderview?id=0B00qDiMLT3XdbXFONEVNUVc3M00&usp=sharing)
