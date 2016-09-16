@@ -16,7 +16,7 @@ For this exercise, we are asking you to analyze user behavior and web analytics 
 Feel free to use the [#assignments channel in Slack](https://eresearchnetwork.slack.com/messages/assignments/) to ask questions and talk through the assignment.
 
 Resources:  
-* Use the data dictionary example as a starting point - [Data Dictionary Example](https://docs.google.com/document/d/1e0CnBViTMQ39pwVr8pWb8v51rCsICGAowP0FQcKsKUA/edit?usp=sharing)
+* [Example .csv of data repository analytics data (including Acquisition, Behavior, and User facets)](https://drive.google.com/folderview?id=0B00qDiMLT3XdbXFONEVNUVc3M00&usp=sharing)
 
 Submit to CLIR ERN OSF instance at <https://osf.io/pdn8z/>
 * Save the file with the following convention [assignment-four]-[institution-name].[file-extension]
