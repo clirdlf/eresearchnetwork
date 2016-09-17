@@ -8,6 +8,7 @@ For data repositories, analytics can serve some of the possible functions:
 * To show impact of the service or repository
 * To assess where changes might be made to the service or repository
 * To gather data that can be used in real-time features for the service or repository
+* To demonstrate how people use and interact wit the serive or repository
 
 For this exercise, we are asking you to analyze user behavior and web analytics from examples of statistics in a data repository. There is an example data analytics file linked in the resources below. Some leading questions to consider as you consider your assessment of the data:
 * What are your objectives for the analytics data? 
