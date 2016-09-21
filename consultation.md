@@ -13,8 +13,8 @@ Consultations are optional sessions that give you a chance to look at a particul
  * **Critique an interface or piece of documentation**. Your team provides links to something that needs an outside eye. This might be a repository interface, a website that explains services, or a piece of internally-focused workflow documentation. The consultant reviews the links and provides feedback during an hour-long call.
 
 ##Directions
-Please choose one of the options above and let us know of your interest by September 28, 2016. We will work to match people with the consultants so that we have time for the consults in October and November 2016.
+Please choose one of the options above and let us know of your interest by **September 28, 2016**. We will work to match people with the consultants so that we have time for the consults in October and November 2016.
 
-Submit feedback and brief consult description to CLIR ERN OSF instance at <https://osf.io/pdn8z/>
+**[Optional]** Submit feedback and brief consult description to CLIR ERN OSF instance at <https://osf.io/pdn8z/>
   * Save the file with the following convention [consultation]-[institution-name].[file-extension]
   * Add the file to appropriate assignment folder in this [DLf-eRN-Assignments folder](https://drive.google.com/folderview?id=0B00qDiMLT3XddXBOWWRZM1RISkk&usp=sharing)
