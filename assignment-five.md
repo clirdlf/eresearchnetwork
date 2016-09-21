@@ -15,5 +15,5 @@ Resources:
 * Use the data ethics case studies published by the Council for Big Data, Ethics, and Society - [Data Ethics Case Studies](http://www.datasociety.net/blog/2016/04/13/data-ethics-case-studies/)
 
 Submit to CLIR ERN OSF instance at <https://osf.io/pdn8z/>
-* Save the file with the following convention [assignment-four]-[institution-name].[file-extension]
+* Save the file with the following convention [assignment-five]-[institution-name].[file-extension]
 * Add the file to appropriate assignment folder in this [DLf-eRN-Assignments folder](https://drive.google.com/folderview?id=0B00qDiMLT3XddXBOWWRZM1RISkk&usp=sharing)
