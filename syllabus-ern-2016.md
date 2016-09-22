@@ -121,8 +121,9 @@ Wiki: [https://wiki.diglib.org/EResearch_Network](https://wiki.diglib.org/EResea
 
 ### Speaker(s):
 * Bonnie Tijerina (@bonlth), Data & Society Fellow at Data & Society Research Institute
-  * Slides:
+  * Slides: <https://wiki.diglib.org/images/1/1a/ERN-Data-Ethics.pptx>
   * Video: <http://clir.adobeconnect.com/p5zxm5wphjg/>
+  * Docs: [Supporting Ethics in Data Research (workshop materials and video)](http://datasociety.net/output/supporting-ethics-in-data-research/)
 
 ## Assessment (Metrics for success with Data Services)
 
