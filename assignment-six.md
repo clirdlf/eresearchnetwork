@@ -17,16 +17,16 @@ For this exercise, we are asking you to analyze user behavior and web analytics 
 **Please answer the following questions for each data repository analytics log.**
 
 Log 1 - Acquisitions data <https://drive.google.com/file/d/0B00qDiMLT3XdczEtb1lsMm5RaWs/view?usp=sharing>
-1. Why do you think we are seeing the longer session duration coming from the "Referral" channel?
-2. Which channel would you focus optimization efforts on? Why? 
+* Why do you think we are seeing the longer session duration coming from the "Referral" channel?
+* Which channel would you focus optimization efforts on? Why? 
 
 Log 2 - Behavior data <https://drive.google.com/file/d/0B00qDiMLT3XdTzQyYzRQU3NHYzA/view?usp=sharing> 
-1. What do the low "Pages/Session" tell you about the user interface design of this repository?
-2. In comparing the pages with the most users (those with 5 users or more), what are the common success metrics that you see? Low bounce rates, high pages/session, longer session durations, etc.?
+* What do the low "Pages/Session" tell you about the user interface design of this repository?
+* In comparing the pages with the most users (those with 5 users or more), what are the common success metrics that you see? Low bounce rates, high pages/session, longer session durations, etc.?
 
 Log 3 - User data <https://drive.google.com/file/d/0B00qDiMLT3XdZGZXQ0dOREdBMDg/view?usp=sharing>
-1. What are the most striking differences in behavior between "New Visitors" and "Returning Visitors"?
-2. Is there a particular metric you would like to see improved for "New Visitors"? Why? 
+* What are the most striking differences in behavior between "New Visitors" and "Returning Visitors"?
+* Is there a particular metric you would like to see improved for "New Visitors"? Why? 
 
 Feel free to use the [#assignments channel in Slack](https://eresearchnetwork.slack.com/messages/assignments/) to ask questions and talk through the assignment.
 
