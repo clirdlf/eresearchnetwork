@@ -142,6 +142,6 @@ Wiki: [https://wiki.diglib.org/EResearch_Network](https://wiki.diglib.org/EResea
 * [Example .csv of data repository analytics data (including Acquisition, Behavior, and User facets)](https://drive.google.com/folderview?id=0B00qDiMLT3XdbXFONEVNUVc3M00&usp=sharing)
 
 ### Speaker(s):
-* TBD
-  * Slides:
-  * Video:
+* Hui Zhang, Assistant Professor and the Digital Application Librarian at Oregon State University Libraries and Press
+  * Slides: 
+  * Video: <https://clir.adobeconnect.com/_a960001693/p2y1qirb8mp/>
