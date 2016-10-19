@@ -143,5 +143,5 @@ Wiki: [https://wiki.diglib.org/EResearch_Network](https://wiki.diglib.org/EResea
 
 ### Speaker(s):
 * Hui Zhang, Assistant Professor and the Digital Application Librarian at Oregon State University Libraries and Press
-  * Slides: 
+  * Slides: <https://wiki.diglib.org/images/0/0b/Assessment-Metrics-Research-Data.pptx>
   * Video: <https://clir.adobeconnect.com/_a960001693/p2y1qirb8mp/>
