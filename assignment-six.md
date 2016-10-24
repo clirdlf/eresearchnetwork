@@ -34,6 +34,6 @@ Resources:
 * [Example .csv of data repository analytics data (including Acquisition, Behavior, and User facets)](https://drive.google.com/folderview?id=0B00qDiMLT3XdbXFONEVNUVc3M00&usp=sharing)
 
 Submit to CLIR ERN OSF instance at <https://osf.io/pdn8z/>
-* Save the file with the following convention [assignment-four]-[institution-name].[file-extension]
+* Save the file with the following convention [assignment-six]-[institution-name].[file-extension]
 * Add the file to appropriate assignment folder in this [DLf-eRN-Assignments folder](https://drive.google.com/folderview?id=0B00qDiMLT3XddXBOWWRZM1RISkk&usp=sharing)
 
