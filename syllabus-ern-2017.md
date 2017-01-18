@@ -14,6 +14,9 @@ Website: [https://www.diglib.org/groups/e-research-network/](https://www.diglib.
 
 Wiki: [https://wiki.diglib.org/EResearch_Network](https://wiki.diglib.org/EResearch_Network)
 
+## Course Description (Objectives, Goals, and Expectations)
+The DLF eResearch Network (formerly the “DLF E-Research Peer Network and Mentoring Group,” itself a spin-off of the ARL/DLF/Duraspace E-Science Institute) is a community of practice focused on implementing research data management services and engaging in shared skill development, networking, and collaboration. DLF’s goal in providing the eRN experience is to create a self-reliant, mutually supportive community: a network of institutions and individuals engaged in continuous learning about RDM, data curation, and e-research support.
+
 ## Data Advocacy (building advocates, partnerships internal/external, and promoting data literacy)
 
 ### Suggested Readings
