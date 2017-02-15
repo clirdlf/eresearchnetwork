@@ -242,9 +242,9 @@ Each eRN session will consist of a short presentation from a topical expert and 
 
 * Analyzing user behavior and web analytics from examples of statistics in a data repository
 
-    * Complete Instructions for Assignment Six
+    * [Complete Instructions for Assignment Six](https://github.com/clirdlf/eresearchnetwork/blob/master/archive-2016/assignment-six.md)
 
     * Documents:
 
-        * Example .csv of data repository analytics data (including Acquisition, Behavior, and User facets)
+        * [Example .csv of data repository analytics data (including Acquisition, Behavior, and User facets)](https://drive.google.com/drive/folders/0B00qDiMLT3XdbXFONEVNUVc3M00)
 
