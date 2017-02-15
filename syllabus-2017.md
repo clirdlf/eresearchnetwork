@@ -36,7 +36,7 @@ Each eRN session will consist of a short presentation from a topical expert and 
 
 # Topic 1: Building an eResearch Services Roadmap
 
-**Key concept: How to think about ****environmental scans and defining RDM, Digital Scholarship, or other eResearch-related services****.**** **
+**Key concept: How to think about environmental scans and defining RDM, Digital Scholarship, or other eResearch-related services.**
 
 ## Session Learning Objectives:
 
@@ -64,7 +64,7 @@ Each eRN session will consist of a short presentation from a topical expert and 
 
 ## Suggested Assignments:
 
-* Environmental scan/survey
+* Environmental scan/survey for digital scholarship awareness and partners
 
 * Roadmap for RDM services
 
@@ -74,7 +74,7 @@ Each eRN session will consist of a short presentation from a topical expert and 
 
 # Topic 2: Advocacy and Promotion
 
-**Key concept: How to think about ****building advocates, partnerships internal/external, and promoting data literacy or other eResearch-related competencies****.**** **
+**Key concept: How to think about building advocates, partnerships internal/external, and promoting data literacy or other eResearch-related competencies.**
 
 ## Session Learning Objectives:
 
@@ -94,11 +94,13 @@ Each eRN session will consist of a short presentation from a topical expert and 
 
 * Digital Scholarship Services
 
+    * McCullough, Heather. ["Developing Digital Scholarship Services on a Shoestring Facilities, Events, Tools, and Projects."](http://crln.acrl.org/content/75/4/187.short) College & Research Libraries News 75, no. 4 (2014): 187-190.
+
 ## Suggested Assignments:
 
 * [Complete Instructions for Advocacy Assignment](https://github.com/clirdlf/eresearchnetwork/blob/master/assignment-one.md)
 
-* Create a Roadshow(slideshow) for promoting Data Services and present to offices outside the library OR Lesson Plan for Data Management Curriculum
+* Create a Roadshow(slideshow) for promoting Data Services and present to offices outside the library OR Lesson Plan for a Digital Scholarship Instruction Session
 
     * [Example Roadshow](https://docs.google.com/presentation/d/14Qa8l5BONFtmXaTic88uvffnG-PO7OpDBIW_1ncxUX0/edit?usp=sharing)
 
@@ -106,15 +108,13 @@ Each eRN session will consist of a short presentation from a topical expert and 
 
 # Topic 3: Research Funding, Planning, and Proposals
 
-**Key concept: How to think about planning new services, data management planning, or pitching your ideas for funding.**** **
+**Key concept: How to think about planning new services, data management planning, or pitching your ideas for funding.**
 
 ## Learning Objectives:
 
 * Understanding the requirements landscape for data or digital scholarship
 
-* Finding your voice and drafting a grant proposal
-
-* Scoping and defining a data management plan
+* Finding your voice and drafting a grant proposal/letter of interest or scoping and defining a data management plan
 
 ## Suggested Readings:
 
@@ -130,7 +130,7 @@ Each eRN session will consist of a short presentation from a topical expert and 
 
 * Write a letter of interest for a grant idea 
 
-* [Complete Instructions for Data Management Plan ](https://github.com/clirdlf/eresearchnetwork/blob/master/assignment-two.md)[Assignment](https://github.com/clirdlf/eresearchnetwork/blob/master/assignment-two.md). Materials adapted from Jenny Muilenburg and Mariah Lebow’s session at Science Boot Camp West 2014: "Data librarianship: An exploration of data services and management"
+* Create a data managment plan [Complete Instructions for Data Management Plan ](https://github.com/clirdlf/eresearchnetwork/blob/master/assignment-two.md)[Assignment](https://github.com/clirdlf/eresearchnetwork/blob/master/assignment-two.md). Materials adapted from Jenny Muilenburg and Mariah Lebow’s session at Science Boot Camp West 2014: "Data librarianship: An exploration of data services and management"
 
     * [Simplified data management plan](https://docs.google.com/document/d/1XnMr-hMPfiET9hCRhzV-DSBsaLdgeNEOnqKVTQHYQ98/edit?usp=sharing)
 
@@ -142,7 +142,7 @@ Each eRN session will consist of a short presentation from a topical expert and 
 
 # Topic 4: Data Discovery/Metadata and Reusability
 
-**Key concept: How to think about making data findable and describing digital scholarship activities and services for web-scale discovery.**** **
+**Key concept: How to think about making data findable and describing digital scholarship activities and services for web-scale discovery.**
 
 ## Learning Objectives:
 
@@ -196,7 +196,7 @@ Each eRN session will consist of a short presentation from a topical expert and 
 
 ## Suggested Assignments:
 
-* Humanities data curation
+* Curate and preserve a humanities dataset
 
 * Text mine a document for entities
 
@@ -210,11 +210,9 @@ Each eRN session will consist of a short presentation from a topical expert and 
 
             * [Digital Scholarship Project Blueprint](https://docs.google.com/document/d/1LpEUK2n7zEyIx1bNTcokDJ_CWFEgdJkXDGuU7Fgq9pE/)
 
-* Sara: Look for non-technical digital scholarship tools
-
 # Topic 6: Assessment (Metrics for success with Data Services and Digital Scholarship)
 
-**Key concept: How to think about reporting on your services and establishing baseline metrics to quantify success **** **
+**Key concept: How to think about reporting on your services and establishing baseline metrics to quantify success.**
 
 ## Learning Objectives:
 
