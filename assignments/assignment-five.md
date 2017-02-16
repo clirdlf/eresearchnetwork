@@ -1,6 +1,6 @@
 #Assignment 5
 
-Due: October 15, 2016
+Due: Not applicable to this cohort...
 
 ##Instructions
 
