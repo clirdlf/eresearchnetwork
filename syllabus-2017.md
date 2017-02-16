@@ -98,7 +98,7 @@ Each eRN session will consist of a short presentation from a topical expert and 
 
 ## Suggested Assignments:
 
-* [Complete Instructions for Advocacy Assignment](https://github.com/clirdlf/eresearchnetwork/blob/master/assignment-one.md)
+* [Complete Instructions for Advocacy Assignment](https://github.com/clirdlf/eresearchnetwork/blob/master/assignments/assignment-one.md)
 
 * Create a Roadshow(slideshow) for promoting Data Services and present to offices outside the library OR Lesson Plan for a Digital Scholarship Instruction Session
 
@@ -130,7 +130,7 @@ Each eRN session will consist of a short presentation from a topical expert and 
 
 * Write a letter of interest for a grant idea 
 
-* Create a data managment plan [Complete Instructions for Data Management Plan ](https://github.com/clirdlf/eresearchnetwork/blob/master/assignment-two.md)[Assignment](https://github.com/clirdlf/eresearchnetwork/blob/master/assignment-two.md). Materials adapted from Jenny Muilenburg and Mariah Lebow’s session at Science Boot Camp West 2014: "Data librarianship: An exploration of data services and management"
+* Create a data managment plan [Complete Instructions for Data Management Plan Assignment](https://github.com/clirdlf/eresearchnetwork/blob/master/assignments/assignment-two.md). Materials adapted from Jenny Muilenburg and Mariah Lebow’s session at Science Boot Camp West 2014: "Data librarianship: An exploration of data services and management"
 
     * [Simplified data management plan](https://docs.google.com/document/d/1XnMr-hMPfiET9hCRhzV-DSBsaLdgeNEOnqKVTQHYQ98/edit?usp=sharing)
 
@@ -164,7 +164,7 @@ Each eRN session will consist of a short presentation from a topical expert and 
 
 * Build a Data Dictionary (either from scratch OR conduct a metadata audit, decide which fields are minimum viable metadata, and create a data dictionary using those fields).
 
-* [Complete Instructions for Metadata Assignment](https://github.com/clirdlf/eresearchnetwork/blob/master/assignment-four.md)
+* [Complete Instructions for Metadata Assignment](https://github.com/clirdlf/eresearchnetwork/blob/master/assignments/assignment-four.md)
 
     * Documents:
 
@@ -204,7 +204,7 @@ Each eRN session will consist of a short presentation from a topical expert and 
 
 * Propose a digital scholarship project for your university by drafting a project plan.
 
-    * Complete Instructions for Proposing a Digital Scholarship Project Assignment
+    * [Complete Instructions for Proposing a Digital Scholarship Project Assignment](https://github.com/clirdlf/eresearchnetwork/blob/master/assignments/assignment-three.md)
 
         * Documents:
 
@@ -242,7 +242,7 @@ Each eRN session will consist of a short presentation from a topical expert and 
 
 * Analyzing user behavior and web analytics from examples of statistics in a data repository
 
-    * [Complete Instructions for Assignment Six](https://github.com/clirdlf/eresearchnetwork/blob/master/archive-2016/assignment-six.md)
+    * [Complete Instructions for Analytics Assignment](https://github.com/clirdlf/eresearchnetwork/blob/master/assignments/assignment-six.md)
 
     * Documents:
 
