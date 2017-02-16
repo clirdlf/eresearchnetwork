@@ -1,6 +1,6 @@
 #Assignment 6
 
-Due: November 16, 2016
+Due: October 11, 2017
 
 ##Directions
 
