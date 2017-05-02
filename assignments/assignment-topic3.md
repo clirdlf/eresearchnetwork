@@ -1,4 +1,4 @@
-# Topic Three Assignment
+# Topic 3 Assignment
 
 Due: July 10, 2017
 
