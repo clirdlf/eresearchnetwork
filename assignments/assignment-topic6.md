@@ -1,8 +1,12 @@
-#Assignment 6
+# Topic 6 Assignment
 
-Due: October 11, 2017
+Due: October 9, 2017
 
-##Directions
+Submit to CLIR ERN OSF instance at <https://osf.io/pdn8z/>
+* Save the file with the following convention [assignment-topic6]-[institution-name].[file-extension]
+* Add the file to appropriate assignment folder in this [DLf-eRN-Assignments folder](https://drive.google.com/drive/folders/0B00qDiMLT3XdeHlJZmFUQ2Z0NkE)
+
+## Directions
 
 For data repositories, analytics can serve some of the possible functions:
 * To show impact of the service or repository
@@ -33,7 +37,4 @@ Feel free to use the [#assignments channel in Slack](https://eresearchnetwork.sl
 Resources:  
 * [Example .csv of data repository analytics data (including Acquisition, Behavior, and User facets)](https://drive.google.com/folderview?id=0B00qDiMLT3XdbXFONEVNUVc3M00&usp=sharing)
 
-Submit to CLIR ERN OSF instance at <https://osf.io/pdn8z/>
-* Save the file with the following convention [assignment-six]-[institution-name].[file-extension]
-* Add the file to appropriate assignment folder in this [DLf-eRN-Assignments folder](https://drive.google.com/folderview?id=0B00qDiMLT3XddXBOWWRZM1RISkk&usp=sharing)
 
