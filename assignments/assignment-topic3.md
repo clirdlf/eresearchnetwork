@@ -1,12 +1,16 @@
-#Topic Two Assignment
+#Topic Three Assignment
 
-Due: July 12, 2017
+Due: July 10, 2017
 
 ##Directions
 
 Submit to CLIR ERN OSF instance at <https://osf.io/pdn8z/>
-  * Save the file with the following convention [assignment-one]-[institution-name].[file-extension]
-  * Add the file to appropriate assignment folder in this [DLf-eRN-Assignments folder](https://drive.google.com/folderview?id=0B00qDiMLT3XddXBOWWRZM1RISkk&usp=sharing)
+  * Save the file with the following convention [assignment-topic3]-[institution-name].[file-extension]
+  * Add the file to appropriate assignment folder in this [assignments-submissions folder](https://drive.google.com/drive/folders/0B00qDiMLT3XdeHlJZmFUQ2Z0NkE?usp=sharing)
+
+You can choose to do one of the following activities for this assignment:
+  * Write a letter of interest for a grant idea
+  * Create a data management plan based on the case studies below.
 
 Choose one of the following research case studies:
   * [Engineering](https://docs.google.com/document/d/1mmcSoh_BtKo9yC5POPd7r4uJ9FEyBfhGwEEirxXJWDE/edit?usp=sharing) 
