@@ -4,7 +4,7 @@ Due: October 9, 2017
 
 Submit to CLIR ERN OSF instance at <https://osf.io/pdn8z/>
 * Save the file with the following convention [assignment-topic6]-[institution-name].[file-extension]
-* Add the file to appropriate assignment folder in this [DLf-eRN-Assignments folder](https://drive.google.com/drive/folders/0B00qDiMLT3XdeHlJZmFUQ2Z0NkE)
+* Add the file to appropriate assignment folder in this [assignment-submissions folder](https://drive.google.com/drive/folders/0B00qDiMLT3XdeHlJZmFUQ2Z0NkE)
 
 ## Directions
 

@@ -6,7 +6,7 @@ Due: September 11, 2017
 
 Submit to CLIR ERN OSF instance at <https://osf.io/pdn8z/>
   * Save the file with the following convention [assignment-topic5]-[institution-name].[file-extension]
-  * Add the file to appropriate assignment folder in this [DLf-eRN-Assignments folder](https://drive.google.com/drive/folders/0B00qDiMLT3XdeHlJZmFUQ2Z0NkE?usp=sharing)
+  * Add the file to appropriate assignment folder in this [assignment-submissions folder](https://drive.google.com/drive/folders/0B00qDiMLT3XdeHlJZmFUQ2Z0NkE?usp=sharing)
 
 This assignment is open and dependent on the interests and aptitudes of your team. Some possibilities are listed below. Sara and I are open to other ideas as well, especially as they relate to the "Collections as Data" topic featured in the session.
 
