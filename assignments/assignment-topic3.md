@@ -1,8 +1,8 @@
-#Topic Three Assignment
+# Topic Three Assignment
 
 Due: July 10, 2017
 
-##Directions
+## Directions
 
 Submit to CLIR ERN OSF instance at <https://osf.io/pdn8z/>
   * Save the file with the following convention [assignment-topic3]-[institution-name].[file-extension]

@@ -1,4 +1,4 @@
-#Topic 4 Assignment
+# Topic 4 Assignment
 
 Due: August 7, 2017
 
@@ -6,7 +6,7 @@ Submit to CLIR ERN OSF instance at <https://osf.io/pdn8z/>
 * Save the file with the following convention [assignment-topic4]-[institution-name].[file-extension]
 * Add the file to appropriate assignment folder in this [DLf-eRN-Assignments folder](https://drive.google.com/drive/folders/0B00qDiMLT3XdeHlJZmFUQ2Z0NkE?usp=sharing)
 
-##Directions
+## Directions
 
 For data or digital scholarship repositories, a data dictionary serves the following functions:
 * To document the metadata elements used in the repository

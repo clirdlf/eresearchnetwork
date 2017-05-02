@@ -1,8 +1,8 @@
-#Topic 2 Assignment
+# Topic 2 Assignment
 
 Due: June 12, 2017
 
-##Directions
+## Directions
 
 Submit to CLIR ERN OSF instance at <https://osf.io/pdn8z/>
   * Save the file with the following convention [assignment-topic2]-[institution-name].[file-extension]
