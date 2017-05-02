@@ -1,18 +1,18 @@
 # Curriculum and Topics of Study for DLF ERN 2017
 
-* [Open Science Framework for eResearch Network](https://osf.io/pdn8z/)
-
 * [eResearch Network Slack Instance](https://eresearchnetwork.slack.com/)
 
-* Website: [https://www.diglib.org/groups/e-research-network/](https://www.diglib.org/groups/e-research-network/)
+* [Open Science Framework for eResearch Network](https://osf.io/pdn8z/)
 
-* Wiki: [https://wiki.diglib.org/EResearch_Network](https://wiki.diglib.org/EResearch_Network)
+* [Google Drive DLF ERN Folder](https://drive.google.com/drive/folders/0B00qDiMLT3XdeHlJZmFUQ2Z0NkE?usp=sharing) (for assignments and file sharing)
 
 * 2017 ERN Roster - TBD
 
 * 2017 ERN Peer Review Groupings - TBD
 
-* [Google Drive DLF ERN Folder](https://drive.google.com/drive/folders/0B00qDiMLT3XdeHlJZmFUQ2Z0NkE?usp=sharing) (for assignments and file sharing)
+* Website: [https://www.diglib.org/groups/e-research-network/](https://www.diglib.org/groups/e-research-network/)
+
+* Wiki: [https://wiki.diglib.org/EResearch_Network](https://wiki.diglib.org/EResearch_Network)
 
 ## **Course Description (Objectives, Goals, and Expectations)**
 
