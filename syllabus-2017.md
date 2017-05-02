@@ -32,7 +32,7 @@ The DLF eResearch Network is a community of practice focused on implementing res
 
 This year's eRN curriculum is designed to be flexible and adaptable. During our first eRN session, each participant will build an eResearch Services Roadmap that will help them identify learning goals and structure their work for the rest of the semester. Each subsequent month's meeting is assigned a broad topic, with each participant choosing an element of the topic that most benefits their goals. 
 
-Each eRN session will consist of a short presentation from a topical expert and small group discussions. eRN participants will prepare for each session by completing a related assignment. The goal of eRN assignments is to help move a local initiative forward in a practical way; participants should design their assignments to fulfill their learning goals. This syllabus provides assignment ideas for each topic, and eRN faculty will also be available to provide feedback on alternative assignment ideas. 
+Each eRN session typically consists of a short presentation from a topical expert and small group discussions. eRN participants will prepare for each session by completing a related assignment. The goal of eRN assignments is to help move a local initiative forward in a practical way; participants should design their assignments to fulfill their learning goals. This syllabus provides assignment ideas for each topic, and eRN faculty will also be available to provide feedback on alternative assignment ideas. 
 
 # Topic 1: Building an eResearch Services Roadmap
 
