@@ -207,11 +207,11 @@ Each eRN session will consist of a short presentation from a topical expert and 
 
 * Propose a digital scholarship project for your university by drafting a project plan.
 
-    * [Complete Instructions for Proposing a Digital Scholarship Project Assignment](https://github.com/clirdlf/eresearchnetwork/blob/master/assignments/assignment-three.md)
+* [Complete Instructions for the Topic 5 Assignment](https://github.com/clirdlf/eresearchnetwork/blob/master/assignments/assignment-topic5.md)
 
-        * Documents:
+  * Documents:
 
-            * [Digital Scholarship Project Blueprint](https://docs.google.com/document/d/1LpEUK2n7zEyIx1bNTcokDJ_CWFEgdJkXDGuU7Fgq9pE/)
+    * [Digital Scholarship Project Blueprint](https://docs.google.com/document/d/1LpEUK2n7zEyIx1bNTcokDJ_CWFEgdJkXDGuU7Fgq9pE/)
 
 # Topic 6: Assessment (Metrics for success with Data Services and Digital Scholarship)
 
@@ -245,9 +245,9 @@ Each eRN session will consist of a short presentation from a topical expert and 
 
 * Analyzing user behavior and web analytics from examples of statistics in a data repository
 
-    * [Complete Instructions for Analytics Assignment](https://github.com/clirdlf/eresearchnetwork/blob/master/assignments/assignment-six.md)
+* [Complete Instructions for Analytics Assignment](https://github.com/clirdlf/eresearchnetwork/blob/master/assignments/assignment-topic6.md)
 
-    * Documents:
+  * Documents:
 
-        * [Example .csv of data repository analytics data (including Acquisition, Behavior, and User facets)](https://drive.google.com/drive/folders/0B00qDiMLT3XdbXFONEVNUVc3M00)
+    * [Example .csv of data repository analytics data (including Acquisition, Behavior, and User facets)](https://drive.google.com/drive/folders/0B00qDiMLT3XdbXFONEVNUVc3M00)
 
