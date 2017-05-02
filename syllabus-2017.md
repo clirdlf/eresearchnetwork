@@ -12,7 +12,7 @@
 
 * 2017 ERN Peer Review Groupings - TBD
 
-* Google Drive DLF ERN Folder (for assignments and file sharing) - TBD
+* [Google Drive DLF ERN Folder](https://drive.google.com/drive/folders/0B00qDiMLT3XdeHlJZmFUQ2Z0NkE?usp=sharing) (for assignments and file sharing)
 
 ## **Course Description (Objectives, Goals, and Expectations)**
 
