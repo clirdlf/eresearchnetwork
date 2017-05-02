@@ -62,13 +62,13 @@ Each eRN session will consist of a short presentation from a topical expert and 
 
 * Mulligan, Rikk (May 2016)[ SPEC Kit 350: Supporting Digital Scholarship](http://publications.arl.org/Supporting-Digital-Scholarship-SPEC-Kit-350/). Association of Research Libraries
 
-## Suggested Assignments:
+## Suggested In-Class Assignments and Activities:
 
-* Environmental scan/survey for digital scholarship awareness and partners
+* Begin composing an environmental scan/survey for digital scholarship awareness and partners
 
-* Roadmap for RDM services
+* Draft your roadmap for RDM services
 
-* Meet with/interview data stakeholders: Central IT, VPR, Office of Sponsored Programs, data-centric disciplines, research support services/centers (like stats consulting, research design help)
+* Plan a meeting with/interview data stakeholders: Central IT, VPR, Office of Sponsored Programs, data-centric disciplines, research support services/centers (like stats consulting, research design help)
 
 * Identify challenges with data or data needs on campus
 
@@ -98,9 +98,9 @@ Each eRN session will consist of a short presentation from a topical expert and 
 
 ## Suggested Assignments:
 
-* [Complete Instructions for Advocacy Assignment](https://github.com/clirdlf/eresearchnetwork/blob/master/assignments/assignment-one.md)
+* [Complete Instructions for Advocacy Assignment](https://github.com/clirdlf/eresearchnetwork/blob/master/assignments/assignment-topic2.md)
 
-* Create a Roadshow(slideshow) for promoting Data Services and present to offices outside the library OR Lesson Plan for a Digital Scholarship Instruction Session
+* Create a Roadshow(slideshow) for promoting Data Services or Digital Scholarship and present to offices outside the library OR Lesson Plan for a Digital Scholarship Instruction Session
 
     * [Example Roadshow](https://docs.google.com/presentation/d/14Qa8l5BONFtmXaTic88uvffnG-PO7OpDBIW_1ncxUX0/edit?usp=sharing)
 
