@@ -130,7 +130,10 @@ Each eRN session will consist of a short presentation from a topical expert and 
 
 * Write a letter of interest for a grant idea 
 
-* Create a data managment plan [Complete Instructions for Data Management Plan Assignment](https://github.com/clirdlf/eresearchnetwork/blob/master/assignments/assignment-two.md). Materials adapted from Jenny Muilenburg and Mariah Lebow’s session at Science Boot Camp West 2014: "Data librarianship: An exploration of data services and management"
+* Create a data management plan 
+
+* [Complete Instructions for Data Management Plan Assignment](https://github.com/clirdlf/eresearchnetwork/blob/master/assignments/assignment-topic3.md). 
+    * Materials adapted from Jenny Muilenburg and Mariah Lebow’s session at Science Boot Camp West 2014: "Data librarianship: An exploration of data services and management"
 
     * [Simplified data management plan](https://docs.google.com/document/d/1XnMr-hMPfiET9hCRhzV-DSBsaLdgeNEOnqKVTQHYQ98/edit?usp=sharing)
 
@@ -164,7 +167,7 @@ Each eRN session will consist of a short presentation from a topical expert and 
 
 * Build a Data Dictionary (either from scratch OR conduct a metadata audit, decide which fields are minimum viable metadata, and create a data dictionary using those fields).
 
-* [Complete Instructions for Metadata Assignment](https://github.com/clirdlf/eresearchnetwork/blob/master/assignments/assignment-four.md)
+* [Complete Instructions for Metadata Assignment](https://github.com/clirdlf/eresearchnetwork/blob/master/assignments/assignment-topic4.md)
 
     * Documents:
 
