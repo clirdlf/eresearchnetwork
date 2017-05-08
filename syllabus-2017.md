@@ -6,7 +6,7 @@
 
 * [Google Drive DLF ERN Folder](https://drive.google.com/drive/folders/0B00qDiMLT3XdeHlJZmFUQ2Z0NkE?usp=sharing) (for assignments and file sharing)
 
-* 2017 ERN Roster - TBD
+* [2017 ERN Roster](https://docs.google.com/document/d/1WH_YJyRXvysZXJFiDZ6FqqQBiC2FR-EyLcQWkqCwaMg/edit?usp=sharing)
 
 * 2017 ERN Peer Review Groupings - TBD
 
