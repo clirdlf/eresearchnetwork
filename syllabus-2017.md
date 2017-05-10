@@ -8,7 +8,7 @@
 
 * [2017 ERN Roster](https://docs.google.com/document/d/1WH_YJyRXvysZXJFiDZ6FqqQBiC2FR-EyLcQWkqCwaMg/edit?usp=sharing)
 
-* 2017 ERN Peer Review Groupings - TBD
+* [2017 ERN Peer Review Groupings](https://docs.google.com/document/d/1vU19M1SSWVVtK2qx3XOIW01IHvAzGi3F5mMKmD4ng38/edit?usp=sharing)
 
 * Website: [https://www.diglib.org/groups/e-research-network/](https://www.diglib.org/groups/e-research-network/)
 
