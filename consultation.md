@@ -4,7 +4,7 @@ Due: November 18, 2017
 
 ## Description
 
-Consultations are optional sessions that give you a chance to look at a particular question that you want to solve locally. Consultants are E-Research faculty and associated experts such as CLIR/ DLF postdoctoral fellows in Data Curation or former E-Research participants. The level of each consultation is dependent on which areas of research data management an institution identifies, but sessions are limited to an hour.  We have outlined the current options for these optional consults below. 
+Consultations are optional sessions that give you a chance to look at a particular question that you want to solve locally. Consultants are E-Research faculty and associated experts such as CLIR/ DLF postdoctoral fellows in Data Curation or former E-Research participants. The level of each consultation is dependent on which areas of research data management or digital scholarship an institution identifies, but sessions are limited to an hour.  We have outlined the current options for these optional consults below. 
 
  * **Workshop a document**. Your team provides a document that can be reviewed ahead of time: this might be something for public consumption, like an MoU template, a deposit agreement, or a typical DMP. The consultant reviews the document and schedules an hour-long call to discuss the document.
 
