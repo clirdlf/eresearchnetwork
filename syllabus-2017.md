@@ -52,7 +52,7 @@ Each eRN session typically consists of a short presentation from a topical exper
 
 * Been, Josh; Bennett, Miranda; Hilyer, Lee Andrew; Malizia, Michelle; Thompson, Santi (2016) [Creating a Roadmap for Digital Scholarship Services at the University of Houston Libraries (slides)](https://conferences.tdl.org/tcdl/index.php/TCDL/TCDL2016/paper/viewFile/974/419). 2016 Texas Conference on Digital Libraries.
 
-* McCullough, Heather (2014) [Developing Digital Scholarship Services on a Shoestring: Facilities, Events, Tools, and Projects.](http://crln.acrl.org/index.php/crlnews/article/view/9103/9993) College & Research Libraries News 75(4): 187-190.
+* McCullough, Heather (2014) [Developing Digital Scholarship Services on a Shoestring: Facilities, Events, Tools, and Projects.](http://crln.acrl.org/index.php/crlnews/article/view/9103/0) College & Research Libraries News 75(4): 187-190.
 
 ## Optional resources
 
