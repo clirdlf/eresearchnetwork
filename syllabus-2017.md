@@ -52,7 +52,7 @@ Each eRN session typically consists of a short presentation from a topical exper
 
 * Been, Josh; Bennett, Miranda; Hilyer, Lee Andrew; Malizia, Michelle; Thompson, Santi (2016) [Creating a Roadmap for Digital Scholarship Services at the University of Houston Libraries (slides)](https://conferences.tdl.org/tcdl/index.php/TCDL/TCDL2016/paper/viewFile/974/419). 2016 Texas Conference on Digital Libraries.
 
-* McCullough, Heather (2014) [Developing Digital Scholarship Services on a Shoestring: Facilities, Events, Tools, and Projects.](http://crln.acrl.org/content/75/4/187.full) College & Research Libraries News 75(4): 187-190.
+* McCullough, Heather (2014) [Developing Digital Scholarship Services on a Shoestring: Facilities, Events, Tools, and Projects.](http://crln.acrl.org/index.php/crlnews/article/view/9103/9993) College & Research Libraries News 75(4): 187-190.
 
 ## Optional resources
 
@@ -90,11 +90,11 @@ Each eRN session typically consists of a short presentation from a topical exper
 
     * Piorun, Mary E., Donna Kafel, Tracey Leger-Hornby, Siamak Najafi, Elaine R. Martin, Paul Colombo, and Nancy R. LaPelle. 2012. ["Teaching Research Data Management: An Undergraduate/Graduate Curriculum."](http://dx.doi.org/10.7191/jeslib.2012.1003) Journal of eScience Librarianship 1(1): e1003. 
 
-    * Johnston, Lisa, and Jon Jeffryes. ["Steal this idea: A library instructors’ guide to educating students in data management skills."](http://crln.acrl.org/content/75/8/431.full) College & Research Libraries News 75, no. 8 (2014): 431-434. 
+    * Johnston, Lisa, and Jon Jeffryes. ["Steal this idea: A library instructors’ guide to educating students in data management skills."](http://crln.acrl.org/index.php/crlnews/article/view/9175/10137) College & Research Libraries News 75, no. 8 (2014): 431-434. 
 
 * Digital Scholarship Services
 
-    * McCullough, Heather. ["Developing Digital Scholarship Services on a Shoestring Facilities, Events, Tools, and Projects."](http://crln.acrl.org/content/75/4/187.short) College & Research Libraries News 75, no. 4 (2014): 187-190.
+    * McCullough, Heather. ["Developing Digital Scholarship Services on a Shoestring Facilities, Events, Tools, and Projects."](http://crln.acrl.org/index.php/crlnews/article/view/9103/9993) College & Research Libraries News 75, no. 4 (2014): 187-190.
 
 ## Suggested Assignments:
 
