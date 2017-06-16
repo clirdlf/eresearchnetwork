@@ -120,7 +120,7 @@ Each eRN session typically consists of a short presentation from a topical exper
 
 * Dietrich, Dianne, Trisha Adamus, Alison Miner, and Gail Steinhart. ["De-mystifying the data management requirements of research funders."](http://istl.org/12-summer/refereed1.html) Issues in Science and Technology Librarianship 70, no. 1 (2012). 
 
-* Diekema, Anne R., Andrew Wesolek, and Cheryl D. Walters. "The NSF/NIH effect: Surveying the effect of data management requirements on faculty, sponsored programs, and institutional repositories." The Journal of Academic Librarianship 40, no. 3 (2014): 322-331.
+* Diekema, Anne R., Andrew Wesolek, and Cheryl D. Walters. "The NSF/NIH effect: Surveying the effect of data management requirements on faculty, sponsored programs, and institutional repositories." The Journal of Academic Librarianship 40, no. 3 (2014): 322-331. [Open Access author manuscript available.](http://tigerprints.clemson.edu/cgi/viewcontent.cgi?article=1076&context=lib_pubs)
 
 * Michener, W. K. (2015). ["Ten Simple Rules for Creating a Good Data Management Plan."](http://dx.doi.org/10.1371/journal.pcbi.1004525) PLoS Comput Biol , 11(10). presented at the 10/2015. 
 
