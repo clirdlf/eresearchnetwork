@@ -143,41 +143,7 @@ Each eRN session typically consists of a short presentation from a topical exper
 
     * [Case Study: Engineering](https://docs.google.com/document/d/1mmcSoh_BtKo9yC5POPd7r4uJ9FEyBfhGwEEirxXJWDE/edit?usp=sharing)
 
-# Topic 4: Data Discovery/Metadata and Reusability
-
-**Key concept: How to think about making data findable and describing digital scholarship activities and services for web-scale discovery.**
-
-## Learning Objectives:
-
-* Understanding the common metadata schemes and profiles for data and digital scholarship services 
-
-* Becoming an advocate for metadata and its role in discovery and preservation
-
-## Suggested Readings:
-
-* Arlitsch, Kenning, and Patrick S. O'Brien. ["Invisible institutional repositories: Addressing the low indexing ratios of IRs in Google Scholar."](http://scholarworks.montana.edu/xmlui/bitstream/handle/1/3193/Arlitsch-Obrien-LHT-GS-final-revised_2012-02-18.pdf) Library Hi Tech 30, no. 1 (2012): 60-81. 
-
-* Torsten Reimer. ["Less is More? A Metadata Schema for Data Repositories"](http://wwwf.imperial.ac.uk/blog/openaccess/2016/02/19/less-is-more-metdata-schema-discovery-research-datary-of-research-data/) Imperial College London Open Access and Digital Scholarship Blog. February 19, 2016. 
-
-* Dom Fripp. ["Developing a Core Metadata Profile for the UK Research Data Discovery Service."](https://rdds.jiscinvolve.org/wp/2016/03/11/core_metadata_profile/) JISC Research Data Discovery Service Blog, March 11, 2016.
-
-* Noy, Natasha and Brickley. ["Facilitating the Discovery of Public Datasets."](https://research.googleblog.com/2017/01/facilitating-discovery-of-public.html) Google Research Blog, January 24, 2017.
-
-## Suggested Assignments:
-
-* Build a Data Dictionary (either from scratch OR conduct a metadata audit, decide which fields are minimum viable metadata, and create a data dictionary using those fields).
-
-* [Complete Instructions for Metadata Assignment](https://github.com/clirdlf/eresearchnetwork/blob/master/assignments/assignment-topic4.md)
-
-    * Documents:
-
-        * [Data Dictionary Example](https://docs.google.com/document/d/1e0CnBViTMQ39pwVr8pWb8v51rCsICGAowP0FQcKsKUA/edit)
-
-        * [W3C Data on the Web Best Practices](https://www.w3.org/TR/dwbp/)
-
-        * [FAIR Data Principles](https://www.force11.org/group/fairgroup/fairprinciples) 
-
-# Topic 5: Collections as Data
+# Topic 4: Collections as Data
 
 **Key concept: How to think about applying technical and computational skills to data and digital collections. Potential topics include: Digital Humanities, Data Visualization, Digital Curation**
 
@@ -207,11 +173,45 @@ Each eRN session typically consists of a short presentation from a topical exper
 
 * Propose a digital scholarship project for your university by drafting a project plan.
 
-* [Complete Instructions for the Topic 5 Assignment](https://github.com/clirdlf/eresearchnetwork/blob/master/assignments/assignment-topic5.md)
+* [Complete Instructions for the Project Blueprint Assignment](https://github.com/clirdlf/eresearchnetwork/blob/master/assignments/assignment-topic4.md)
 
   * Documents:
 
     * [Digital Scholarship Project Blueprint](https://docs.google.com/document/d/1LpEUK2n7zEyIx1bNTcokDJ_CWFEgdJkXDGuU7Fgq9pE/)
+
+# Topic 5: Data Discovery/Metadata and Reusability
+
+**Key concept: How to think about making data findable and describing digital scholarship activities and services for web-scale discovery.**
+
+## Learning Objectives:
+
+* Understanding the common metadata schemes and profiles for data and digital scholarship services 
+
+* Becoming an advocate for metadata and its role in discovery and preservation
+
+## Suggested Readings:
+
+* Arlitsch, Kenning, and Patrick S. O'Brien. ["Invisible institutional repositories: Addressing the low indexing ratios of IRs in Google Scholar."](http://scholarworks.montana.edu/xmlui/bitstream/handle/1/3193/Arlitsch-Obrien-LHT-GS-final-revised_2012-02-18.pdf) Library Hi Tech 30, no. 1 (2012): 60-81. 
+
+* Torsten Reimer. ["Less is More? A Metadata Schema for Data Repositories"](http://wwwf.imperial.ac.uk/blog/openaccess/2016/02/19/less-is-more-metdata-schema-discovery-research-datary-of-research-data/) Imperial College London Open Access and Digital Scholarship Blog. February 19, 2016. 
+
+* Dom Fripp. ["Developing a Core Metadata Profile for the UK Research Data Discovery Service."](https://rdds.jiscinvolve.org/wp/2016/03/11/core_metadata_profile/) JISC Research Data Discovery Service Blog, March 11, 2016.
+
+* Noy, Natasha and Brickley. ["Facilitating the Discovery of Public Datasets."](https://research.googleblog.com/2017/01/facilitating-discovery-of-public.html) Google Research Blog, January 24, 2017.
+
+## Suggested Assignments:
+
+* Build a Data Dictionary (either from scratch OR conduct a metadata audit, decide which fields are minimum viable metadata, and create a data dictionary using those fields).
+
+* [Complete Instructions for Metadata Assignment](https://github.com/clirdlf/eresearchnetwork/blob/master/assignments/assignment-topic5.md)
+
+    * Documents:
+
+        * [Data Dictionary Example](https://docs.google.com/document/d/1e0CnBViTMQ39pwVr8pWb8v51rCsICGAowP0FQcKsKUA/edit)
+
+        * [W3C Data on the Web Best Practices](https://www.w3.org/TR/dwbp/)
+
+        * [FAIR Data Principles](https://www.force11.org/group/fairgroup/fairprinciples) 
 
 # Topic 6: Assessment (Metrics for success with Data Services and Digital Scholarship)
 
