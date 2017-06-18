@@ -157,7 +157,7 @@ Each eRN session typically consists of a short presentation from a topical exper
 
 * Berry, David M. 2011. ["The computational turn: Thinking about the digital humanities."](http://culturemachine.net/index.php/cm/article/viewDownloadInterstitial/440/470) Culture Machine, 12(0), p.2.
 
-* Liu, Alan. 2013. "The Meaning of the Digital Humanities." PMLA 128 (2013): 409-23.
+* Liu, Alan. 2013. ["The Meaning of the Digital Humanities."](http://escholarship.org/uc/item/5gc857tw) PMLA 128 (2013): 409-23.
 
 * Posner, Miriam. 2016. ["Money and Time."](http://miriamposner.com/blog/money-and-time/) 
 
