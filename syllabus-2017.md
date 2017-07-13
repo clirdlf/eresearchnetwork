@@ -10,6 +10,8 @@
 
 * [2017 ERN Peer Review Groupings](https://docs.google.com/document/d/1vU19M1SSWVVtK2qx3XOIW01IHvAzGi3F5mMKmD4ng38/edit?usp=sharing)
 
+* [Consultation (directions & description)](https://github.com/clirdlf/eresearchnetwork/blob/master/consultation.md)
+
 * Website: [https://www.diglib.org/groups/e-research-network/](https://www.diglib.org/groups/e-research-network/)
 
 * Wiki: [https://wiki.diglib.org/EResearch_Network](https://wiki.diglib.org/EResearch_Network)
